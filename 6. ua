@@ -1,0 +1,1835 @@
+#Language,УКРАЇНСЬКА
+#Location,ua
+#Image,ua
+None,None
+Test,Test
+
+#Human,Людина
+#Elf,Ельф
+#Dwarf,Дварф
+#Neko,Неко
+#Inu,iну
+#Usagi,Усагi
+#Hitsuji,Хiтцуi
+#Dragonian,Драконiанка
+#Furry,Тварино-дiвчина
+#SmallFurry,Маленька тварино-дiвчина
+#Goblin,Гоблiн
+#Orc,Орк
+#Werewolf,Вовкулака
+#Minotaur,Мiнотавр
+#Salamander,Саламандра
+#Client,Клiєнт
+
+#Monster,Монстер
+#Slave,Рабиня
+#Room,Кiмната
+#Consumable,Вживання
+
+// Room
+#BreedingRoom,Кiмната розведення
+#BreedingRoom,Кiмната розведення 
+#FemaleSlaveCage,Клiтка для рабинь 
+#SlaveCage,Клiтка для рабiв 
+#Altar,Алтар
+#Blacksmith,Кузня 
+#Laboratory,Лабораторiя 
+#Library,Бiблiотека 
+#Market,Ринок 
+#Mercenary,Найманець 
+#Warehouse,Склад 
+#Morgue,Морг 
+#DrawingRoom,Кабiнет 
+#DeliveryRoom,Кiмната доставки 
+#FrontDoor,Передня дверi 
+#BackDoor,Задня дверi 
+#MonsterCage,Клiтка для монстрiв
+#GloryHole,Отвiр слави
+#WaitingPlace,Мiсце очiкування
+#RationDistribution,Автоматична розподiл рацiонiв
+#ShowerRoom,Душова кiмната
+#ShowerRoom2,Душова кiмната
+#Bathroom,Ванна кiмната
+#AutomaticDeliveryRoom,Автоматична кiмната для народження
+#MilkingRoom,Кiмната для доїння
+#AutomaticMilkingRoom,Автоматична кiмната для доїння
+#Carriage,Повозка
+#ShowerRoomGround,Душова кiмната
+#BathroomGround,Автоматична ванна кiмната
+#KokiRoom,Кiмната для пайзури
+#Stall,Шарада про зоофiлiю
+#BirthShowRoom,Кiмната для показу народження
+#VipRoom,VIP-кiмната
+#VvipRoom,VVIP-кiмната
+#BreedingRoom2,Велика кiмната розведення
+#MonsterCage2,Велика клiтка для монстра
+
+// Room Information
+#BreedingRoomText,Споруда для розведення монстрiв та невiльниць.
+#SlaveCageText,Клiтка для рабинь, може вмiстити до п'яти рабинь.
+#MonsterCageText,Клiтка для монстрiв, може вмiстити до п'яти монстрiв.
+#BackDoorText,Тут укладаються небезпечнi угоди.
+#DeliveryRoomText,Мiсце для вагiтних рабинь та народження.
+#MorgueText,Коли мертве тiло покладено, його запечатують.
+#CarriageText,Ви можете продавати рабинь або монстрiв.
+#GrowthCapsuleText,Пристрiй, який виправляє зовнiшнiсть невiльника.<BR>Одна частина зовнiшностi невiльника може бути випадковим чином змiнена.
+#AppearanceCapsuleText,Пристрiй, який виправляє зовнiшнiсть монстра.<BR>Одна частина зовнiшностi монстра може бути випадковим чином змiнена.
+#RationDistributionText,Споруда, яка автоматично розподiляє їжу.
+#ShowerRoomText,Споруда, яка вiдновлює чистоту.
+#BathroomText,Споруда, яка автоматично вiдновлює чистоту.
+#AutomaticDeliveryRoomText,Споруда, яка автоматично народжує.
+#MilkingRoomText,Споруда, яка доїть.
+#AutomaticMilkingRoomText,Споруда, яка доїть i автоматично розподiляє молоко.
+#ServiceRoomText,Споруда для пайзури.<BR>Плата за використання залежить вiд раси <sprite index=1>: +30
+
+// Menu
+#Menu,МЕНЮ
+#Start,СТАРТ
+#Story,СЮЖЕТ
+#Option,ОПЦiЇ
+#Sponsor,СПОНСОР
+#Save,ЗБЕРЕГТИ
+#Load,ЗАВАНТАЖИТИ
+#Config,НАЛАШТУВАННЯ
+#Sound,ЗВУК
+#ToTitle,ДО ГОЛОВНОГО МЕНЮ
+#Empty,ПУСТО
+#Back,НАЗАД
+#Exit,ВИЙТИ
+#FullScreen,ПОВНИЙ ЕКРАН
+#Window,ВiКНО
+#Special,ВВЕСТИ КОД
+#AutoSave,АВТОМАТИЧНЕ ЗБЕРЕЖЕННЯ
+#Free_Mode,ВiЛЬНИЙ РЕЖИМ
+#Master_Volume,ЗАГАЛЬНИЙ ГУЧНIСТЬ
+#Music_Volume,ГУЧНiСТЬ МУЗИКИ
+#Effects_Volume,ГУЧНiСТЬ ЕФЕКТiВ
+#LanguageTitle,МОВА
+#FrameText0,VSYNC УВiМК.
+#FrameText1,VSYNC ВИМК.
+#FrameText2,ОБМЕЖИТИ FPS 60
+#FrameText3,ОБМЕЖИТИ FPS 30
+
+#EnterCode,Please enter the code.
+
+// Scroll
+#Building,Будiвництво пiд землею
+#BuildingGround,Будiвництво на поверхнi
+#Inventory,iнвентар
+
+// Room
+#Room Effect,Ефект кiмнати
+#Demolish,Знешкодити
+
+#Time Limit Text,Обмеження часу<BR>{0}/{1} день ({2}/{3} секунд)
+#EventTimeText,{0:0.0} день
+#Payment_Text,Оплачено платежiв {0}/{1}
+#MarketRate,Ринковий курс {0}%
+
+#First Page,Перша сторiнка
+#Middle Page,{0} сторiнка
+#Last Page,Остання сторiнка
+
+#MentalityText,Здоров'я <color=#8888FF>{0}/{1}</color>
+#MaxMentalityText,{0}<BR>Макс. здоров'я <color=#8888FF>{1}</color>
+#Sex Count Text,Досвiд вiдносин <color=#8888FF>{0} разiв</color>
+#Virgin,<color=#8888FF>Дiвчина</color>
+#Birth Count Text,Досвiд пологiв <color=#8888FF>{0} разiв</color>
+#Max Birth Count Text,Можливiсть вагiтностi <color=#8888FF>{0} разiв</color>
+#Venereal Disease Resistance Text,Стiйкiсть до венеричних захворювань <color=#8888FF>{0}%</color>
+#Conception Rate Text,Шанс зачаття <color=#8888FF>{0}%</color>
+#Conception Rate Text2,Шанс зачаття <color=#8888FF>{0}%</color><color=#88FF88>+{1}%</color>
+#Market Value Text,<sprite index=1> {0} ▶ <color=#8888FF>{1}</color>
+#SellingPrice,<sprite index=1> {0}
+#Buying Price,<sprite index=1> {0}
+#Exchange Gold For Food,<sprite index=1> {0} ▶ <sprite index=0> 100
+#Exchange Gold For Mana,<sprite index=1> {0} ▶ <sprite index=2> 100
+#Changing Appearance Capsule Current Progress,Час завершення<BR>{0} / {1}
+#Changing Appearance Capsule Complete Progress,Завершено
+#Maintenance Cost Value,<sprite index=0><color=#8888FF>{0}</color> споживання на день
+#Hunger_Text,{0}<BR><sprite index=0><color=#8888FF>{0}</color> споживання на день
+#Decay,Вiдбувається розпад.
+
+// Warning
+#Full_Shelf,Полиця заповнена.
+#No_Cosmetic_Pill,Немає косметичного зелья, яке ви можете купити.
+#Payment_failure_Text,Не вдалося здiйснити оплату.
+#Cannot_Demolish_Text,Не можна знешкодити.
+#Lack_of_gold,Недостатньо золота
+#No_Gold,Недостатньо золота
+#No_Point,Недостатньо балiв
+#Cannot_Sell,Не можна продати
+#No_Seat,Немає вiльного мiсця
+#No_Baby,Не має немовлят
+#No_Adult,Не має дорослих
+#No_Corpse,Не має трупiв
+#No_NewbornBaby,Не має новонароджених
+#Full_Room,Кiмната заповнена
+#Cannot_Build,Не можна побудувати в цьому мiсцi
+#No_Pregnant,Не вагiтна.
+#No_BreedingRoom,Не кiмната для розведення
+#Cannot_Allocate,Не можна розмiстити.
+#Cannot_Allocate_Yet,Ще не можна розмiстити.
+#Cannot_Allocate_Corpse,Трупи не можна розмiстити.
+#No_Female_Slave_Cage,Невiльниць було покинуто через вiдсутнiсть клiток для невiльниць.
+#No_Monster_Cage,Монстрiв було покинуто через вiдсутнiсть клiток для монстрiв.
+#EnteredCode,Цей код вже введено.
+#No_Monster,Не монстр.
+#No_Slave,Не невiльник.
+#Not_Character,Не невiльник або монстр.
+#Already_Been_Applied,Ефект вже застосований.
+#No_Elf,Не ельф.
+#No_Unit,Немає невiльникiв або монстрiв.
+#Not_Your_Slave,Не ваш невiльник.
+#Not_Your_Monster,Не ваш монстр.
+#Not_Apply,Не застосовувати.
+#Not_Yet,Ще не доступно.
+#No_Tattoo,Немає татуювання.
+#Full_Health,Повне здоров'я.
+#Remove_Tattoo,Видалити татуювання
+#Recover_Health,Вiдновити здоров'я
+#Full_Milk,Повне молоко.
+#Recover_Milk,Вiдновити молоко
+#No_Venereal_Disease,Немає венеричного захворювання.
+#Recover_Venereal_Disease,Вiдновити венеричне захворювання
+#Recover_Birth_Count,Вiдновити кiлькiсть пологiв
+#NoMoveBirth,Пiд час пологiв не можна рухатися.
+#Already_Upgraded,Вже вдосконалено
+#No_Achievement_Point,Недостатньо очок досягнень
+#Not_Milk_NewbornBaby,Новонароджених неможливо годувати грудним молоком.
+#No_Dna,Немає ДНК.
+#No_Upgraded,Потрiбно вдосконалення.
+#No_Cage,Немає клiток для перемiщення.
+#NotMovePlayer,Гравця не можна перемiщувати.
+#UnableToTurnOffPaymentList,Ви не можете вимкнути список платежiв у день оплати.
+#NoRepay,Недостатньо грошей для погашення.
+#WarningGameOver,Золото в даний момент перебуває в негативному станi. Амiлiя не терпить негативного стану. Схоже, у вас немає виходу, окрiм як позичити грошi.
+#IsCustomizing,Можлива лише одна продукцiя одночасно.
+#No_Product_In_Market,На ринку немає продуктiв.
+#No_Save,Не вдалося зберегти.
+#No_Dismantling,Не може бути розiбраним.
+#No_Sell_Player,Гравця неможливо продати.
+#Can_Only_Upgrade_Day,Можна пiдвищувати тiльки вдень.
+#Can_Only_Upgrade_Night,Можна пiдвищувати тiльки вночi.
+#No_Sex,Неможливiсть схрещування.
+
+// LogMessage
+#LogMessage_Dead,Рабиня(<color=#E07369>{0}</color>) померла.
+#LogMessage_Dead_bady,Немовля(<color=#E07369>{0}</color>) померло.
+#LogMessage_Slave_Venereal_Disease,Рабиня(<color=#E07369>{0}</color>) має венеричну хворобу.
+#LogMessage_Monster_Venereal_Disease,Монстр(<color=#E07369>{0}</color>) має венеричну хворобу.
+#LogMessage_Client_Venereal_Disease,Клiєнт(<color=#E07369>{0}</color>) має венеричну хворобу.
+#LogMessage_Infected,Кiмната(<color=#E07369>{0}</color>) забруднена.
+#LogMessage_Customize,Виробництво(<color=#63E057>{0}</color>) завершено.
+#Number_Of_Name,{0} {1}x
+#Be_Pregnant,{0} вагiтна.
+#Give_Birth,{0} народила.
+#Have_Venereal_Disease,{0} має венеричну хворобу.
+#Be_Infertile,{0} бiльше не може зачати.
+
+// Amilia
+#Not_Now,Не зараз.
+#Not_Day,Приходьте знову вдень.
+#Not_Night,Приходьте знову вночi.
+#Not_Need,Це не те, що менi зараз потрiбно.
+#Good,Добре.
+#Today_Market_Rate,Сьогоднiшня ринкова цiна.
+#Not_Need_Corpse,Зараз я не приймаю трупи.
+#Market_Value_Text,Чи хочете ви побачити ринкову цiну?
+#Dispose_Corpse,Утилiзацiя трупiв коштує <sprite index=1> {0} за голову.
+#DisposeInfertileMonster,Утилiзацiя безплiдного монстра коштує <sprite index=1> {0} за голову.
+#Low_Price,Ви продаєте за копiйки? Це вигiдно для нас.
+#Middle_Price,Дякуємо вам завжди~
+#High_Price,Це дорого сьогоднi, чи не так?
+#DragAndDrop,<color=#8888FF>Перетягнiть i розмiстiть</color> будь ласка.
+
+// UI
+Day{0},{0}День
+{0}Day,{0}День
+{0:0.0}Day,{0:0.0}День
+#MonsterPrice,Цiна монстра
+#SlavePrice,Цiна рабинi
+#GoblinPrice,Цiна гоблiна
+#Button_Close,Закрити
+#Button_OK,OK
+#CardName,{0}{1}Номер
+#GoldText,Золото
+#PaymentText,Оплата
+#PaymentDayText,День оплати
+#DayText,{0} днiв
+#WorkforceText,Отримати 1 через {0} секунд
+#MarketRateLabel,Ринковий курс
+#SellText,Продати
+#CallMonsterText,Повторно запросити дилера
+#CallSlaveText,Повторно запросити невiльника
+#WindowDemolitionTitle,Розбирання
+#WindowDemolitionText,Ви впевненi, що хочете видалити це?
+#Button_Yes,Так
+#Button_No,Нi
+#CancelConstruction,Скасувати будiвництво
+#ReputationText,Репутацiя рiвень {0}
+#WarehouseTitle,Сховище
+#FloraActionButton,Розiбрати
+
+#SlaveTitText0,Плоска
+#SlaveTitText1,Мала
+#SlaveTitText2,Середня
+#SlaveTitText3,Велика
+#SlaveTitText4,Величезна
+
+#MonsterBodyText1,Гарне
+#MonsterBodyText2,Погане
+
+#MonsterPenisText1,Маленький
+#MonsterPenisText2,Великий
+
+#MonsterBallText1,Малi
+#MonsterBallText2,Великi
+
+#Input_Name,Будь ласка, введiть назву закладу.
+#Input_PlayerName,Будь ласка, введiть iм'я гравця.
+#Input_EstateName,Будь ласка, введiть назву власностi.
+
+// Status
+#Name,iм'я
+#Race,Раса
+#Family_Tree,Генеалогiчне дерево
+#Current_State,Поточний стан
+#GrowthState,Стан росту
+#Sterility,Стерильнiсть
+#ErectileDysfunction,Ерекцiйна дисфункцiя (ЕД)
+#Eunuch,Евнух
+#Hunger,Голод
+#Venereal Disease,Венерична хвороба
+#Venereal_Disease,Венерична хвороба
+#Food_Consumption,Витрати на утримання (день)
+#Conception_Rate,Швидкiсть зачаття
+#HungerValue,Здоров'я, витрачене пiд час голоду (день)
+#MentalityConsumedDuringPregnancy,Здоров'я, витрачене пiд час вагiтностi (сек)
+#Venereal_Disease_Resistance,Стiйкiсть до венеричних захворювань
+#BirthCount,Кiлькiсть пологiв
+#Postpartum_Time,Перерва пiсля пологiв
+#Sex_Time,Час для сексу
+#ValueToDecreaseMentality,Здоров'я невiльника, витрачене пiд час сексу (сек)
+#Growth_Time,Час росту немовляти
+#Soul,Душа
+#BreastMilk,Материнське молоко
+#MultipleFetuses,Кiлькiсть можливих багатоплiдних вагiтностей
+
+#Tits_Type,Розмiр грудей
+#Body_Type,Розмiр тiла
+#MonsterBodyType,Тип тiла монстра
+#Eye_Color_Type,Колiр очей
+#Hair_Color_Type,Колiр волосся
+#SkinColorType,Колiр шкiри
+#FirstSexPartner,Перший партнер
+#FirstSexPartnerRace,Раса татуювання партнера
+#Sex_Count,Досвiд сексу
+#SexPartnerCount,Досвiдчений партнер
+#Charm_Type,Шарм
+#Creampie,Кiлькiсть Creampie
+#FirstPartner,Перший партнер для Creampie
+
+#SkinCondition,Стан шкiри
+#BodyCondition,Стан тiла
+#PenisType,Розмiр члена
+#BallsType,Розмiр яєць
+
+#Price,Цiна
+
+#SecondFormat,{0:0}s
+#Percent,{0:0}%
+#Small,Малий
+#Medium,Середнiй
+#Large,Великий
+#Thick,Товстий
+#Thin,Худий
+#Nobody,Нiхто
+#Unknown,Невiдомий
+#FamilyTreeFarther,Батько: {0}
+#FamilyTreeMother,Мати: {0}
+#Baby,Немовля
+#Adult,Дорослий
+#Child,Дитина
+
+#Amilia,Амелiя
+#Flora,Флора
+#Niel,Наель
+#SenaLena,Сена&Лена
+#Locked,Заблоковано
+
+#Sylvia,Сильвiя
+#SylviaPartner,Kenneth
+#SylviaFamilyTree,Father: Unknown<BR>Mother: Невiдомо
+#Claire,Клер
+#ClaireFamilyTree,Father: Unknown<BR>Mother: Невiдомо
+#Aure,Аур
+#AureFamilyTree,Father: Unknown<BR>Mother: Невiдомо
+#Karen,Карен
+#KarenFamilyTree,Father: Unknown<BR>Mother: Невiдомо
+#Vivi,Вiвi
+#Bella,Белла
+
+#Tab_Status,Статус
+#Tab_Trait,Риса
+#Tab_MarketRate,Ринковий курс
+#Tab_Buyer,Покупець
+
+#BuyerRate,Цiна продажу<BR>+{0}%
+
+#Color,Колiр
+#Color_Random,Рiзнобарв'я
+#Color_Brown,Коричневий
+#Color_Yellow,Жовтий
+#Color_Black,Чорний
+#Color_White,Бiлий
+#Color_Beige,Бежевий
+#Color_Gold,Золотий
+#Color_Green,Зелений
+#Color_Lime,Лаймовий
+#Color_Orange,Помаранчевий
+#Color_Gray,Сiрий
+#Color_DarkGold,Темно-золотий
+#Color_SandyBrown,Пiсочно-коричневий
+#Color_Blue,Синiй
+#Color_Red,Червоний
+#Color_Aqua,Блакитний
+#Color_LightGreen,Свiтло-зелений
+#Color_Cyan,Блакитний
+#Color_Purple,Фiолетовий
+#Color_Pink,Рожевий
+
+#Appearance_SkinCondition,Стан шкiри
+#Appearance_Body,Тiло
+#Appearance_SkinColor,Колiр шкiри
+#Appearance_ScaleColor,Колiр луски
+#Appearance_HairColor,Колiр волосся
+#Appearance_EyeColor,Колiр очей
+#Appearance_ChestHair,Грудна волога
+#Appearance_ArmHair,Волосся на руках
+#Appearance_LegHair,Волосся на ногах
+#Appearance_PubicHair,Волосся в областi пахв
+#Appearance_Hair,Волосся
+#Appearance_Penis,Пенiс
+#Appearance_Ball,Яєця
+#Appearance_Ear,Вухо
+#Appearance_EarHair,Волосся на вухах
+#Appearance_Nose,Нiс
+#Appearance_Horn,Рiг
+#Appearance_HornColor,Колiр рога
+#Appearance_Beard,Борода
+#Appearance_Tooth,Зуб
+#Appearance_Figure,Фiгура
+#Appearance_Tail,Хвiст
+
+#Appearance_Tits,Груди
+#Appearance_EyeBall,Зрадник очей
+#Appearance_Eye,Око
+#Appearance_HairFront,Переднє волосся
+#Appearance_HairSide,Бокове волосся
+#Appearance_HairBack,Заднє волосся
+
+#RaceHumanText,Людина
+#RaceElfText,Ельф
+#RaceDwarfText,Дварф
+#RaceNekoText,Неко
+#RaceInuText,iну
+#RaceUsagiText,Усагi
+#RaceHitsujiText,Хiцудзi
+#RaceDragonianText,Драконiд
+#RaceSuccubusText,Суккуб
+#RaceGoblinText,Гоблiн
+#RaceOrcText,Орк
+#RaceWerewolfText,Вервольф
+#RaceHorseText,Кiнь
+#RaceMinotaurText,Мiнотавр
+
+#Test_Toggle,TEST<BR>TOGGLE
+#Test_Resources,Resources
+#Test_ReputationUp,Reputation<BR>+10
+#Test_ReputationDown,Reputation<BR>-10
+#Test_RaceTrait1,Race<BR>Trait1
+#Test_RaceTrait2,Race<BR>Trait2
+#Test_Trait1,Trait1
+#Test_Trait2,Trait2
+#Test_Trait3,Trait3
+#Test_Trait4,Trait4
+
+#Milk,Молоко
+#LoliMilk,Молоко дитини
+#HumanMilk,Молоко людини
+#ElfMilk,Молоко ельфа
+#DwarfMilk,Молоко дварфа
+#FurryMilk,Молоко фуррi
+#SmallFurryMilk,Молоко маленького фуррi
+#DragonianMilk,Молоко драконiда
+
+#Item0100100,Тiло рiдини
+#Item0100100Text,Звичайний базовий побiчний продукт всiх рас
+#Item0100200,DNA венеричних хвороб
+#Item0100200Text,Побiчний продукт, який можна отримати лише у випадку венеричної хвороби
+
+#Item0200600,Феромони людини
+#Item0200600Text,Феромони людини, людська раса характеризується сильними феромонами, та суть, видобута з них
+#Item0200800,Ельфiйний мана двигун
+#Item0200800Text,Мана-двигун ельфiв, джерело потужної мани ельфiйської раси та мана-генеруючий двигун
+#Item0201000,Серце дверга
+#Item0201000Text,Серце дверга, джерело потужних фiзичних здiбностей та регенерацiйної сили раси двергiв
+#Item0201100,DNA молочної залози Inu Furry
+#Item0201100Text,DNA молочної залози Inu Furry, ДНК, яка сприяє лактацiї у Inu Furry
+#Item0201200,DNA яєчника Neco Furry
+#Item0201200Text,DNA яєчника Neco Furry, ДНК, яка сприяє виведенню яйцеклiтин у Neco Furry
+#Item0201300,DNA матки Usagi Furry
+#Item0201300Text,DNA матки Usagi Furry, ДНК, видобута з матки Usagi Furry
+#Item0201400,Рiг вiвцi Hitsuji Furry
+#Item0201400Text,Рiг вiвцi Hitsuji Furry, Використовується як складова дорогоцiнних лiкiв
+#Item0201500,М'ясо хвоста дракона
+#Item0201500Text,М'ясо хвоста дракона, високоякiсна складова, яка торгується за дуже високу цiну
+
+#Item0301900,Сперма гоблiна
+#Item0301900Text,Незалежно вiд раси, має ефект викликання охоти у супротивника.
+#Item0302200,Серце орка
+#Item0302200Text,Серце орка, джерело регенерацiйної сили орка та корисне для кровообiгу.
+#Item0302400,Хвiст оборотня
+#Item0302400Text,Хвiст оборотня, м'який та пухнастий, найвищої якостi для хутра.
+#Item0302500,Шкiра мiнотавра
+#Item0302500Text,Шкiра мiнотавра, дуже мiцний i витривалий матерiал високої якостi, торгується за дуже високу цiну.
+
+#Item0400500,iн'єкцiя вiдновлення дiвственностi
+#Item0400500Text,Предмет, який скидає перший досвiд рабинi.
+#Item0400600,iн'єкцiя вiдновлення здоров'я
+#Item0400600Text,Предмет, який миттєво вiдновлює здоров'я рабинi.
+#Item0400900,iн'єкцiя вiдновлення молочної залози
+#Item0400900Text,Предмет, який миттєво вiдновлює молочнi залози рабинi.
+#Item0401000,iн'єкцiя вiдновлення венеричного захворювання
+#Item0401000Text,Предмет, який миттєво вiдновлює венеричне захворювання рабинi або монстра.
+#Item0401010,iн'єкцiя вiдновлення яйцеклiтин
+#Item0401010Text,Предмет, який вiдновлює поточну кiлькiсть народжених у рабинi до 0.
+
+#Item107Name,Золото
+#Item107Text,Золото
+#Item111Name,Бали досягнень
+#Item111Text,Бали досягнень
+#Item112Name,DNA людини
+#Item112Text,DNA людини,яку можна отримати з невеликою ймовiрнiстю,використовується для забороненої алхiмiї.
+#Item113Name,DNA ельфа
+#Item113Text,DNA ельфа,яку можна отримати з невеликою ймовiрнiстю,використовується для забороненої алхiмiї.
+#Item114Name,DNA дверга
+#Item114Text,DNA дверга,яку можна отримати з невеликою ймовiрнiстю,використовується для забороненої алхiмiї.
+#Item115Name,DNA неко
+#Item115Text,DNA неко,яку можна отримати з невеликою ймовiрнiстю,використовується для забороненої алхiмiї.
+#Item116Name,DNA iну
+#Item116Text,DNA iну,яку можна отримати з невеликою ймовiрнiстю,використовується для забороненої алхiмiї.
+#Item117Name,DNA усагi
+#Item117Text,DNA усагi,яку можна отримати з невеликою ймовiрнiстю,використовується для забороненої алхiмiї.
+#Item118Name,DNA хiцудзi
+#Item118Text,DNA хiцудзi,яку можна отримати з невеликою ймовiрнiстю,використовується для забороненої алхiмiї.
+#Item119Name,DNA драконiда
+#Item119Text,DNA драконiда,яку можна отримати з невеликою ймовiрнiстю,використовується для забороненої алхiмiї.
+#Item120Name,DNA гоблiна
+#Item120Text,DNA гоблiна,яку можна отримати з невеликою ймовiрнiстю,використовується для забороненої алхiмiї.
+#Item121Name,DNA орка
+#Item121Text,DNA орка,яку можна отримати з невеликою ймовiрнiстю,використовується для забороненої алхiмiї.
+#Item122Name,DNA оборотня
+#Item122Text,DNA оборотня,яку можна отримати з невеликою ймовiрнiстю,використовується для забороненої алхiмiї.
+#Item123Name,DNA мiнотавра
+#Item123Text,DNA мiнотавра,яку можна отримати з невеликою ймовiрнiстю,використовується для забороненої алхiмiї.
+#Item124Name,DNA саламандри
+#Item124Text,DNA саламандри,яку можна отримати з невеликою ймовiрнiстю,використовується для забороненої алхiмiї.
+#Item125Name,DNA походження
+#Item125Text,DNA походження,яку можна отримати з невеликою ймовiрнiстю,використовується для створення всiх рабiнiв та монстрiв.
+#Item126Name,Препаратдляпiдвищеннярепродуктивностi
+#Item126Text,Пiсля використання цього предмету обов'язково забеременiйте вiдразу пiсля наступного випуску сперми.
+#Item127Name,Афродизiак
+#Item127Text,Обов'язково випустiть сперму пiд час сексу на протязi тривалостi дiї цього предмету.<BR>Тривалiсть-1день.
+#Item128Name,ВiОгра
+#Item128Text,Невiдпочивайтепiслясексунапротязiтривалостiдiїцього предмету.<BR>Тривалiсть-1день.
+#Item129Name,Сенситивнiсть3000x
+#Item129Text,Швидкiсть використання борделя збiльшується в 1,5 рази, а цiна за розрахунок збiльшується в 1,5 рази, на протязi тривалостi пiсля використання цього предмету.<BR>Тривалiсть-0,5дня.(Автоматично використовується негайно пiсля виготов
+#Item130Name,Мийка
+#Item130Text,Пiсля використання цього предмету, всi сперматозоїди на полi будуть вимитi. (Автоматично використовується негайно пiсля виробництва)
+#Item131Name,Частина луски саламандри
+#Item131Text,Частина луски, яка мiстить енергiю вогню, торгується як дуже дорогоцiнний магiчний матерiал.
+#Item132Name,Презерватив
+#Item132Text,Презерватив
+#Item133Name,Гель кохання
+#Item133Text,Гель кохання
+#Item134Name,Косметичний засiб
+#Item134Text,Косметичний засiб
+#Item135Name,Засiб для косметики монстра
+#Item135Text,Предмет, який випадковим чином змiнює зовнiшнiй вигляд монстра.
+#Item136Name,Засiб для косметики рабинi
+#Item136Text,Предмет, який випадковим чином змiнює зовнiшнiй вигляд рабинi.
+#Item137Name,Засiб для покращення рис
+#Item137Text,Предмет, який покращує випадкову рису.
+
+#NielBookButton,iлюстрована книга
+#NielBookLabel,iлюстрована книга
+#NielActionButton,Виробити
+#GetButton,Отримати
+
+#Trait_0101000100,Привабливiсть для всiх рас
+#Trait_0101000100_Tooltip,При розмiщеннi борделю додається вiд 2 до 3 разiв бiльше використання борделю.
+#Trait_0101100000,Слабка раса
+#Trait_0101100000_Tooltip,При спарюваннi в умовах виснаження кiлькiсть витраченого здоров'я збiльшується в 1,5 рази.
+#Trait_0102000000,Теплота
+#Trait_0102000000_Tooltip,При виробленнi татуювання в упаймання, спрага ельфа збiльшується, що призводить до того, що вона йде в спарку. Збiльшується шанс зачаття на 30% тiльки у цiльової раси, в яку вигравiють татуювання.
+#Trait_0102100200,Дверги-незадатки
+#Trait_0102100200_Tooltip,Ельфи не люблять двергiв, тому не хочуть бути в одному мiсцi. Швидкiсть вiдновлення здоров'я зменшується на 0,5 рази.
+#Trait_0103000000,Душа воїна
+#Trait_0103000000_Tooltip,Душа воїна благословила двергiв. iснує певна ймовiрнiсть того, що здоров'я не буде зменшуватися пiд час сексу.
+#Trait_0103100200,Ельфи-незадатки
+#Trait_0103100200_Tooltip,Дверги не люблять ельфiв, тому не хочуть бути в одному мiсцi. Швидкiсть вiдновлення здоров'я зменшується на 0,5 рази.
+#Trait_0105000000,Додаткова вагiтнiсть
+#Trait_0105000000_Tooltip,При вагiтностi iснує певна ймовiрнiсть, що ви зможете зачати ще одного плода.
+#Trait_0105100000,Надмiрне зморшкування
+#Trait_0105100000_Tooltip,iснує певна ймовiрнiсть, що секс буде перервано через надмiрне зморшкування неко-пухнастих.
+#Trait_0106000000,Багато молока
+#Trait_0106000000_Tooltip,У iну пухнастих тiло оптимiзоване для годування грудьми. Пiсля вiдведення всього молока з грудей iснує певна ймовiрнiсть, що воно вiдновиться.
+#Trait_0106100000,Обжерливiсть
+#Trait_0106100000_Tooltip,Пiд час щоденного постачання їжi iснує шанс подвоїти потребу в їжi. Активується лише один раз на день.
+#Trait_0107000000,Суперфетацiя
+#Trait_0107000000_Tooltip,У усагi пухнастих двi матки.<BR>Пiд час вагiтностi з можливiстю пiдвищеної вагiтностi пiд час випуску сперми всередину.<BR>Плiд отримує +1.
+#Trait_0107100000,Булiмiя
+#Trait_0107100000_Tooltip,iснує шанс подвоїти потребу в їжi пiд час щоденного постачання їжi.
+#Trait_0108000000,Розслаблене мислення
+#Trait_0108000000_Tooltip,У овець пухнастих розслаблене мислення.<BR>Коли не виснажена та вiдпочиває, швидкiсть вiдновлення здоров'я збiльшується в 1,5 рази.
+#Trait_0108100000,Трус
+#Trait_0108100000_Tooltip,Овець пухнастих труса.<BR>Якщо в одному мiсцi є iну-пухнастi або монстри, здоров'я зменшується на 1 одиницю за секунду.
+#Trait_0109000000,Сильнi гени
+#Trait_0109000000_Tooltip,Драконiди беруть тiльки хорошi гени.<BR>Спадковi можуть бути тiльки позитивнi риси серед загальних рис.
+#Trait_0109100100,Вибiр генiв
+#Trait_0109100100_Tooltip,Драконiди вiдхиляють поганi гени.<BR>Якщо у монстра є двi або бiльше рис з мiнусом i нулем, спарювання вiдмовляється.
+
+#Trait_0101200000,Туз Борделя
+#Trait_0101200000_Tooltip,Показує свої навички як найкраща стриптизерка в борделi.<BR>При розмiщеннi борделю кiлькiсть використання борделю збiльшується вiд 5 до 10 разiв.
+#Trait_0102200000,Залiзна воля
+#Trait_0102200000_Tooltip,Вiдображає її мiцну волю.<BR>Застосовується половина всього споживання здоров'я.
+#Trait_0103200000,Сталева матка
+#Trait_0103200000_Tooltip,Її обов'язок як племiнної принцеси - народжувати багато дiтей.<BR>Якщо максимальна кiлькiсть народжень заповнена, поточна кiлькiсть народжень стає 0 лише один раз.
+#Trait_0104200000,Грабiжник
+#Trait_0104200000_Tooltip,Злодiї обчищають все, включаючи сперму суперника.<BR>Негайно, коли вагiтнiсть не вiдбувається з cumshot зовнi, а cumshot всередину потрапляє в секс.
+#Trait_0107200000,Невезучiсть гравця
+#Trait_0107200000_Tooltip,Вона настiльки пристрастована до азартних iгор, що навiть ставить на те, чи вона вагiтна, чи нi.<BR>Вона завжди робить цю ставку лише тодi, коли вона вагiтна, але її нещастя виходить за межi,<BR>Коли вона вагiтна, вона обов'язково додає ще одну вагiтнiсть, коли cumshot всередину (плiд +1).
+#Trait_0109200000,Генетична iнженерiя
+#Trait_0109200000_Tooltip,Майстер генетичної iнженерiї, вона може манiпулювати генами за допомогою своєї мани.<BR>Одна з загальних рис плода пiдвищується на один рiвень.
+
+#Trait_0201000000, Приниження
+#Trait_0201000000_Tooltip,Коли статевий потяг вибухає i cumshot зовнi, iснує певна ймовiрнiсть негайного повторного сексу.
+#Trait_0201100100,Садизм
+#Trait_0201100100_Tooltip,При спарюваннi з виснаженими рабами споживання здоров'я збiльшується в 1,5 рази.
+#Trait_0202000100,Надмiрне збудження
+#Trait_0202000100_Tooltip,Cumshot прискорюється через настiльки велике збудження, час сексу збiльшується в 0,5 рази.
+#Trait_0202100000,Резервуар сперми
+#Trait_0202100000_Tooltip,При спарюваннi споживання здоров'я збiльшується в 1,5 рази.
+#Trait_0203000000,Грумiнг
+#Trait_0203000000_Tooltip,Вовки нiжно лизькають своїх опонентiв. Коли не спарюється з рабом, здоров'я вiдновлюється на 1 одиницю за секунду.
+#Trait_0203100000,Насильственна копуляцiя
+#Trait_0203100000_Tooltip,Вовки перенадходженi пiд час спарювання мають шанс завдати половину здоров'я раба у шкоди.
+#Trait_0204000100,Народження! дитина бога
+#Trait_0204000100_Tooltip,У минулому мiнотаврiв боготворили як богiв. Коли рабка вагiтна мiнотавром, iснує низька ймовiрнiсть, що одна з негативних рис перетвориться на позитивну.
+#Trait_0204100100,Викидень
+#Trait_0204100100_Tooltip,Пiвня мiнотавра важко прийняти рабу. Розведення пiд час вагiтностi рабинi призводить до низької ймовiрностi викидня плоду.
+
+#Trait_93_Name,Шанс зачаття {0}%
+#Trait_93_Text,Шанс зачаття {0}%
+#Trait_94_Name,Час зростання {0} с
+#Trait_94_Text,Час зростання малюка {0} с
+#Trait_95_Name,Собiвартiсть {0}
+#Trait_95_Text,Щоденна собiвартiсть {0}
+#Trait_96_Name,Максимальне здоров'я {0}
+#Trait_96_Text,Максимальне здоров'я {0}
+#Trait_97_Name,Максимальна кiлькiсть народжень {0}
+#Trait_97_Text,Максимальна кiлькiсть народжень {0}
+#Trait_98_Name,Багатоплiднiсть {0}
+#Trait_98_Text,Кiлькiсть плодiв, якi можна зачати за один раз {0}
+#Trait_99_Name,Час спарювання {0} с
+#Trait_99_Text,Час спарювання {0} с
+#Trait_100_Name,Споживання здоров'я рабинi пiд час спарювання {0}
+#Trait_100_Text,Споживання здоров'я рабинi пiд час спарювання {0}
+#Trait_101_Name,Упередженiсть
+#Trait_101_Text,Незважаючи на загальноприйняте вiрування, саламандри не торкаються слабких супротивникiв. <BR> iз певною ймовiрнiстю вони вiдмовляються спарюватися з виснаженими рабами.
+#Trait_102_Name,Гордiсть
+#Trait_102_Text,Саламандри дуже розумнi та мають вибагливi смаки. <BR> Якщо ви спарюєте ту ж саму рабиню бiльше 5 разiв, спарювання буде вiдмовлено.
+
+#RaceTraitTitle,Особливiсть раси
+#TraitTitle,Особливiсть
+
+#Difficulty,ВИБiР СКЛАДНОСТi
+#Difficulty0,ЛЕГКИЙ
+#Difficulty1,НОРМАЛЬНИЙ
+#Difficulty2,СКЛАДНИЙ
+#Difficulty3,МАСТЕР
+
+#Resource,Ресурс
+#Facility,Споруда
+#Ground,Земля
+#Underground,Пiдземний
+
+#UpgradeTab0,Раб
+#UpgradeTab1,Монстр
+#UpgradeTab2,Ресурси
+#UpgradeTab3,Споруда
+#UpgradeTab4,Земля
+#UpgradeTab5,Пiдземний
+
+#UpgradeMarketSlotSlave1,Додати слот для рабiв на ринку
+#UpgradeMarketSlotSlave2,Додати слот для рабiв на ринку
+#UpgradeMarketElf,Додати ельфiв на ринок
+#UpgradeMarketDwarf,Додати дверфiв на ринок
+#UpgradeMarketFurry,Додати пухнастих на ринок
+#UpgradeMarketSmallFurry,Додати малих пухнастих на ринок
+#UpgradeMarketDragonian,Додати драконiв на ринок
+#UpgradeMarketSlotMonster1,Додати слот для монстрiв на ринку
+#UpgradeMarketSlotMonster2,Додати слот для монстрiв на ринку
+#UpgradeMarketOrc,Додати оркiв на ринок
+#UpgradeMarketWerewolf,Додати оборотнiв на ринок
+#UpgradeMarketMinotaur,Додати мiнотаврiв на ринок
+
+#UpgradeMaxFood1,Збiльшити швидкiсть накопичення продукцiї
+#UpgradeMaxFood2,Збiльшити швидкiсть накопичення продукцiї
+#UpgradeMaxFood3,Збiльшити швидкiсть накопичення продукцiї
+#UpgradeMaxMana1,Збiльшити швидкiсть отримання ДНК
+#UpgradeMaxMana2,Збiльшити швидкiсть отримання ДНК
+#UpgradeMaxMana3,Збiльшити швидкiсть отримання ДНК
+#UpgradeAmilia1,Зменшити вимоги до пiксi
+#UpgradeAmilia2,Зменшити вимоги до пiксi
+#UpgradeAmilia3,Зменшити вимоги до пiксi
+
+#UpgradeReducedSlaveMakingTime1,Зменшення часу виготовлення рабiв
+#UpgradeReducedSlaveMakingTime2,Зменшення часу виготовлення рабiв
+#UpgradeReducedMonsterMakingTime1,Зменшення часу виготовлення монстрiв
+#UpgradeReducedMonsterMakingTime2,Зменшення часу виготовлення монстрiв
+#UpgradeReducedBigMonsterMakingTime1,Зменшення часу виготовлення великих монстрiв
+#UpgradeReducedBigMonsterMakingTime2,Зменшення часу виготовлення великих монстрiв
+#UpgradeReducedBigMonsterMakingTime3,Зменшення часу виготовлення великих монстрiв
+#UpgradeSpecialItemsCanBeCrafted,Можливiсть створення спецiальних предметiв
+
+#UpgradeIncreaseCountOfItem1,Збiльшити максимальну кiлькiсть презервативiв та гелю для кохання
+#UpgradeIncreaseCountOfItem2,Збiльшити максимальну кiлькiсть презервативiв та гелю для кохання
+#UpgradeIncreaseCountOfItem3,Збiльшити максимальну кiлькiсть презервативiв та гелю для кохання
+#UpgradeDecreasePriceOfItem1,Знизити цiну на презервативи та гель для кохання
+#UpgradeDecreasePriceOfItem2,Знизити цiну на презервативи та гель для кохання
+#UpgradeDecreasePriceOfItem3,Знизити цiну на презервативи та гель для кохання
+#UpgradeIncreaseCountOfPill1,Збiльшити максимальну кiлькiсть косметичних засобiв
+#UpgradeIncreaseCountOfPill2,Збiльшити максимальну кiлькiсть косметичних засобiв
+#UpgradeDecreasePriceOfPill1,Знизити цiну на косметичнi засоби
+#UpgradeDecreasePriceOfPill2,Знизити цiну на косметичнi засоби
+#UpgradeDecreasePriceOfPill3,Знизити цiну на косметичнi засоби
+
+#NielBookTab1,Вживання
+#NielBookTab2,Платнi предмети
+
+#LabelAchievement,Досягнення
+#Achievement,Досягнення
+#AchievementTab0,Венерична хвороба
+#AchievementTab1,Раб
+#AchievementTab2,Монстр
+#AchievementTab3,Гра
+#AchievementTab4,Споруда
+#AchievementTab5,Руйнування
+#AchievementTab6,Лабораторiя
+#AchievementTab7,Навчання
+#AchievementTab8,Ринок
+#PointLabel,Очки досягнень
+#PointText,{0} Очок
+
+#A000001Text,Досягнуто <color=#0055FF>{0}</color>/{1} кiлькiсть народжень
+#A000002Text,Досягнуто <color=#0055FF>{0}</color>/{1} кiлькiсть вагiтностей
+#A000003Text,Досягнуто <color=#0055FF>{0}</color>/{1} кiлькiсть вибору всередину
+#A000004Text,Досягнуто <color=#0055FF>{0}</color>/{1} кiлькiсть вибору зовнi
+#A000005Text,Досягнуто <color=#0055FF>{0}</color>/{1} кiлькiсть рабiв
+#A000006Text,Досягнуто <color=#0055FF>{0}</color>/{1} кiлькiсть монстрiв
+#A000007Text,Досягнуто <color=#0055FF>{0}</color>/{1} кiлькiсть венеричних хвороб
+#A000008Text,Досягнуто <color=#0055FF>{0}</color>/{1} кiлькiсть вiдновлень венеричних хвороб
+#A000009Text,Досягнуто <color=#0055FF>{0}</color>/{1} кiлькiсть смертей
+#A000010Text,Досягнуто <color=#0055FF>{0}</color>/{1} кiлькiсть доїнь
+#A000011Text,Досягнуто <color=#0055FF>{0}</color>/{1} кiлькiсть росту
+#A000012Text,Досягнуто <color=#0055FF>{0}</color>/{1} кiлькiсть душувань
+
+#A000013Text,Досягнуто <color=#0055FF>{0}</color>/{1} кiлькiсть будiвництва споруд
+#A000014Text,Досягнуто <color=#0055FF>{0}</color>/{1} кiлькiсть знесення споруд
+#A000021Text,Досягнуто <color=#0055FF>{0}</color>/{1} кiлькiсть продажiв молока
+#A000022Text,Досягнуто <color=#0055FF>{0}</color>/{1} кiлькiсть використання дiрки слави
+#A000023Text,Досягнуто <color=#0055FF>{0}</color>/{1} кiлькiсть використання кiмнати обслуговування
+#A000024Text,Досягнуто <color=#0055FF>{0}</color>/{1} кiлькiсть використання виставки звiриних
+#A000025Text,Досягнуто <color=#0055FF>{0}</color>/{1} кiлькiсть використання шоу народжень
+
+#A000026Text,Досягнуто <color=#0055FF>{0}</color>/{1} кiлькiсть демонтажiв
+#A000027Text,Досягнуто <color=#0055FF>{0}</color>/{1} кiлькiсть вiдновлень
+
+#A000028Text,Досягнуто <color=#0055FF>{0}</color>/{1} кiлькiсть синтезiв
+#A000030Text,Досягнуто <color=#0055FF>{0}</color>/{1} кiлькiсть використання предметiв
+
+#A000031Text,Досягнуто вiдкриття алтаря
+#A000032Text,Досягнуто <color=#0055FF>{0}</color>/{1} конвертацiй душ
+#A000033Text,Досягнуто успiшних воскрешень
+#A000034Text,Досягнуто <color=#0055FF>{0}</color>/{1} невдалих воскрешень
+#A000035Text,Досягнуто сильних пiслявоскрешальних ускладнень
+#A000036Text,Досягнуто пiслявоскрешальних ускладнень
+#A000037Text,Досягнуто слабких пiслявоскрешальних ускладнень
+#A000038Text,Досягнуто iдеальних воскрешень
+
+#A000039Text,Досягнуто <color=#0055FF>{0}</color>/{1} передачi здiбностей
+#A000040Text,Досягнуто <color=#0055FF>{0}</color>/{1} покупок
+#A000041Text,Досягнуто <color=#0055FF>{0}</color>/{1} продажiв
+#A000042Text,Досягнуто <color=#0055FF>{0}</color>/{1} продажiв предметiв
+
+#A000047Text,Досягнуто понад <color=#0055FF>{0}</color>/{1} золота вперше
+#A000048Text,Досягнуто втрат золота вперше
+#A000049Text,Досягнуто <color=#0055FF>{0}</color>/{1} щоденного споживання золота
+#A000050Text,Досягнуто <color=#0055FF>{0}</color>/{1} хвилин гри
+
+#A000052Text,Досягнуто <color=#0055FF>{0}</color>/{1} ступенiв розпуститостi вперше.
+#A000053Text,Досягнуто <color=#0055FF>{0}</color>/{1} разiв в 1-й ступенi розпуститостi.
+#A000054Text,Досягнуто <color=#0055FF>{0}</color>/{1} разiв в 2-й ступенi розпуститостi.
+#A000055Text,Досягнуто <color=#0055FF>{0}</color>/{1} разiв в 3-й ступенi розпуститостi.
+#A000056Text,Досягнуто <color=#0055FF>{0}</color>/{1} разiв в 4-й ступенi розпуститостi.
+#A000057Text,Досягнуто <color=#0055FF>{0}</color>/{1} разiв в 5-й ступенi розпуститостi.
+#A000058Text,Досягнуто <color=#0055FF>{0}</color>/{1} разiв росту.
+#A000059Text,Досягнуто <color=#0055FF>{0}</color>/{1} разiв використання кiмнати VIP.
+#A000060Text,Досягнуто <color=#0055FF>{0}</color>/{1} разiв використання кiмнати VVIP.
+#A000061Text,Досягнуто <color=#0055FF>{0}</color>/{1} разiв створення феї.
+#A000062Text,Досягнуто <color=#0055FF>{0}</color>/{1} разiв створення.
+#A000063Text,Досягнуто <color=#0055FF>{0}</color>/{1} разiв надання порад клiєнтам.
+#A000064Text,Досягнуто <color=#0055FF>{0}</color>/{1} використань презервативiв та гелiв для любовi.
+#A000065Text,Досягнуто <color=#0055FF>{0}</color>/{1} покупок косметичного засобу.
+#A000066Text,Досягнуто вiдкриття розбирання.
+#A000067Text,Досягнуто вiдкриття лабораторiї.
+#A000068Text,Досягнуто вiдкриття порад.
+#A000069Text,Досягнуто <color=#0055FF>{0}</color>/{1} вподобань Флори.
+#A000070Text,Досягнуто <color=#0055FF>{0}</color>/{1} вподобань Нiєля.
+#A000071Text,Досягнуто <color=#0055FF>{0}</color>/{1} вподобань Сени та Лени.
+#A000072Text,Досягнуто <color=#0055FF>{0}</color>/{1} вподобань Амiлiї.
+
+#SmallFurrySlave,Малий Пухнастий Раб
+#Horse,Кiнь
+#SellToMarket,Може бути проданий або розiбраний.
+// 0.8
+
+
+#Hotkeys,HOTKEYS
+#Hotkey1,Move Up
+#Hotkey2,Move Left
+#Hotkey3,Move Down
+#Hotkey4,Move Right
+#Hotkey5,Pause & Play
+#Hotkey6,Speed
+#Hotkey7,Achievement
+#Hotkey8,Upgrade
+#Hotkey9,Inventory
+#Hotkey10,Construction
+#Hotkey11,Unit
+#Hotkey12,Amilia
+#Hotkey13,Flora
+#Hotkey14,Niel
+#Hotkey15,Sena&Lena
+#Hotkey16,Change Estate
+#DragonianSlave,Dragonian Slave
+
+// 0.9
+
+#TraitListTitle,Вибiр властивостей
+#None,Немає
+#CommissionLook,Налаштування зовнiшностi
+#CommissionTrait,Налаштування властивостей
+#CommissionRaceTraitTitle,Налаштування властивостей раси
+#CommissionRaceTrait1,ВластивiстьРаси1
+#CommissionRaceTrait2,ВластивiстьРаси2
+#CommissionTraitTitle,Налаштування властивостей
+#CommissionTrait1,Властивiсть1
+#CommissionTrait2,Властивiсть2
+#CommissionTrait3,Властивiсть3
+#CommissionTrait4,Властивiсть4
+#CommissionButton,Замовити
+#BigMonster,Великий монстр
+#Appearance_PenisHair,Волосся на пенiсi
+#Appearance_BodyHair,Волосся на тiлi
+#Capture,Успiшний захват
+#CommissionPrice,Час {0}днiв <спрайт iндекс=1> {1}
+#BeingCommissioned,Замовлення в процесi
+
+#ByProduct,Бiпродукт
+
+#LabelFather,Батько
+#LabelMother,Мати
+#HealthLabel,Здоров'я
+#ExhaustionLabel,Втома
+#DepravationLabel,Деградацiя
+#Depravity,Деградацiя
+#DepravationLevelFormat,Рiвень {0}
+
+#TypeFormat,{0} ТИП
+
+#IsPregnant,Вагiтна
+
+#NoneName,Без iменi
+
+#Upgrade,Оновлення
+#Build,Будувати
+#Unit,Одиниця
+
+#VersionError,Недiйсна версiя.
+
+#Reputation,Репутацiя
+
+#VoiceType,Голос
+
+#CannotInTutorial,Недоступно в навчальному режимi.
+
+#IsPayable,Сплатно
+
+#MarketRateEventText,Ринковий курс вибраного виду буде фiксований протягом одного дня.<BR><color=#E07369>50%</color> при покупцi, <color=#63E057>150%</color> при продажу
+
+#PixyIsWaiting,Очiкування повернення
+#PixyExists,Пiксi вже прикрiплено.
+
+#Chain,Ланцюг
+#Chain0,Вимкнено
+#Chain1,Увiмкнено
+#ChainText,Ланцюг може бути розiрваний лише тодi, коли вони скоромленi.
+#Clothes,Одяг
+#Clothes0,Вимкнено
+#Clothes1,Увiмкнено
+
+#IsCompleted,Завершено
+#IsWorking,В роботi
+#Production,Виробництво
+
+#MarketRateSellingPrice,Цiна продажу
+#MarketRateBuyingPrice,Цiна покупки
+#MarketRateColorDayFormat,Залишилось часу: {0} днiв
+
+#Customize,КАСТОМiЗАЦiЯ
+
+#Event_1,Найвища цiна на {0}
+#Event_1_Text,Товару {0} вже немає на ринку.<BR>Цiна фiксується на рiвнi 120% протягом {1:0} днiв.
+#Event_2,Найнижча цiна на {0}
+#Event_2_Text,Товару {0} на ринку занадто багато.<BR>Цiна фiксується на рiвнi 80% протягом {1:0} днiв.
+#Event_3,Найвигiднiшi пропозицiї
+#Event_3_Text,Найвигiднiшi пропозицiї
+#Event_37,Ви працюєте?
+#Event_37_Text,Амiлiя пiдозрює вас в недiйсностi роботи.<BR>Ви не можете купувати монстрiв та рабинь протягом {0:0.0} днiв.
+#Event_38,За свободу
+#Event_38_Text,Рабиня втекла.<BR>Втекла рабиня: {0}<BR>Зменшення репутацiї: -{1}
+#Event_43,Чутливiсть 3000x
+#Event_43_Text,Швидкiсть використання борделю збiльшується у 1,5 рази, а цiна плати збiльшується у 1,5 рази на тривалiсть пiсля використання цього предмета.<BR>Тривалiсть: 0,5 дня.
+#Event_44,Перевищення лiмiту на демонтаж
+#Event_44_Text,Кукла демонтажу Флори не слухається!<BR>Не вдалося отримати вторинний продукт.
+#Event_45,Це чорна компанiя
+#Event_45_Text,Флора була перевтомлена.<BR>Демонтаж недоступний протягом {0:0.0} днiв.
+#Event_46,Нещаснi випадки пiд час експериментiв
+#Event_46_Text,Нiєль допустив помилку в зважуваннi.<BR>Не вдалося отримати предмет.
+#Event_47,Нiєль на наркотиках
+#Event_47_Text,Нiєль впав вiд наркотикiв пiд час експерименту.<BR>Лабораторiя недоступна протягом {0:0.0} днiв.
+#Event_48,Я була щедра.
+#Event_48_Text,Схоже, що ви маєте проблеми з постачанням рабинь, тому Амiлiя пiдготувала для вас спецiальний товар.<BR>Людську рабиню можна купити за 300 золотих.
+#Event_49,Не так багато грати...
+#Event_49_Text,Поширювалися чутки, що у борделi недостатньо обладнання..<BR>Протягом {0} днiв репутацiя борделю повiльно зростатиме.
+#Event_50,Не вистачає товару
+#Event_50_Text,На ринку закiнчився товар.<BR>Не купувати протягом {0} днiв.
+
+#CountOfCondomToBuyFormat,Кiлькiсть презервативiв: <color=#63E057>{0}</color>
+#CountOfLoveGelToBuyFormat,Кiлькiсть гелю для кохання: <color=#63E057>{0}</color>
+
+#BuyText,Бажаєте придбати?
+
+#Cient,Споживач
+#Abortion,Аборт
+
+#PreferenceFellatio,Вподобання Отвiр Слави - Феллатiо
+#PreferencePussy,Отвiр Слави - Пизда
+#PreferenceAnal,Отвiр Слави - Анал
+#PreferencePaizuri,Вподобання Грудьми
+#PreferenceVip,Вподобання Vip кiмната
+#PreferenceVvip,Вподобання Vvip кiмната
+
+#Maintenance,Технiчне обслуговування -{0}
+
+#Setting,Налаштування
+#Apply,Застосувати
+
+#Condom,Презерватив
+#CondomText,iнструмент для запобiгання заразним хворобам у рабинь
+#LoveGel,Гель для любовi
+#LoveGelText,iнструмент для скорочення часу використання клiєнтами
+#Pixy,Пiксi
+#Applied,Застосовано
+#Unapplied,Не застосовано
+
+#PixyLabel,Додатковi параметри для Пiксi
+#PixyHealth,Управлiння здоров'ям
+#PixyBirth,Доставка
+#PixyBaby,Передача малюка
+#PixyMilk,Доїння
+#PixyDead,Утилiзацiя тiла
+#PixyShowFirst,Показ першого пологу
+
+#ClientCondomLabel,Параметри презервативiв клiєнта
+#ClientLoveGelLabel,Параметри гелю для клiєнта
+#Client0Name,Бiлий клiєнт
+#Client0Text,Ймовiрнiсть ВПЛ: <color=#E07369>5%</color><BR>Спецiалiзованi риси: <color=#63E057>Швидкiсть зачаття +5%</color>, <color=#E07369>Час росту +5</color>
+#Client1Name,Червоний клiєнт
+#Client1Text,Ймовiрнiсть ВПЛ: <color=#E07369>10%</color><BR>Спецiалiзованi риси: <color=#63E057>Час росту -5</color>, <color=#E07369>Вартiсть утримання +5</color>
+#Client2Name,Синiй клiєнт
+#Client2Text,Ймовiрнiсть ВПЛ: <color=#E07369>10%</color><BR>Спецiалiзованi риси: <color=#63E057>Вартiсть утримання -5</color>, <color=#E07369>Час росту +5</color>
+#Client3Name,Фiолетовий клiєнт
+#Client3Text,Ймовiрнiсть ВПЛ: <color=#E07369>100%</color><BR>Спецiалiзованi риси: <color=#E07369>Всi негативнi риси</color>
+#Client4Name,Золотий клiєнт
+#Client4Text,Ймовiрнiсть ВПЛ: <color=#63E057>0%</color><BR>Спецiалiзованi риси: <color=#63E057>Всi позитивнi риси</color>
+
+#Buy,Купити
+#AutoBuy,Автоматична покупка
+
+#MinotaurText,Великий монстр, який був насильно винищений в давнi часи.
+#SalamanderText,Гiгантський монстр, вершина всього живого, давнiй вимерлий представник.
+
+#ManagementEstate,Управлiння<BR>Маєток
+#PrivateEstate,Приватний<BR>Маєток
+
+#MoveToManagementEstate,Перемiститися до Управлiнського Маєтку
+#MoveToPrivateEstate,Перемiститися до Приватного Маєтку
+
+#EstateFormat,{0} Маєток
+#MoveToEstateFormat,{0} Перемiститися до Маєтку
+#Player,Гравець
+#PlayerText,Персонаж гравця
+#Management,Управлiння
+
+#PayText,Термiн оплати.<BR><color=#AEFC9B>Клацнiть</color>, щоб увiмкнути або вимкнути список платежiв.
+
+// CG
+
+#SceneSlow,S
+#SceneFast,F
+#SceneUp,U
+#SceneDown,D
+#SceneLeft,L
+#SceneRight,R
+#SceneBoth,A
+#SceneInside,I
+#SceneOutside,O
+#CumshotCount,Кiлькiсть еякуляцiй
+#ClearSemen,Очистити сперму
+
+#IsSaving,Збереження.
+#IsLoading,Завантаження.
+
+#ReportLabelRevenues,Доходи
+#ReportLabelExpenses,Витрати
+#ReportLabelProfit,Прибуток
+#ReportLabelLoss,Втрати
+#ReportLabelProfitAndLoss,Прибуток та втрати
+#ReportLabelProfitAndLossChart,Графiк прибуткiв та втрат
+#ReportCount,x{0}
+#ReportPurchaseList,Список вартостi закупiвлi
+#ReportLabelBorrow,Установична позика
+#ReportInterestRate,Вiдсоткова ставка
+#ReportBorrow,Позика
+#ReportLoanPeriod,Термiн позики
+#ReportBorrowedGold,Основна сума
+#ReportLoanPayment,Виплата позики
+#ReportRepay,Повернути
+#ReportLabelCount,Кiлькiсть
+#ReportLabelItem,Спецiальний товар
+#ReportLabelItem1,Регулярна продаж
+#ReportLabelItem2,Обмежена продаж
+#ReportLabelLoanCount,Кiлькiсть позик
+#ReportFormatCount,{0}
+#ReportFormatDay,{0} День
+#ReportLabelGold,Золото
+
+#Likeability,Симпатiя
+
+#L001Text,Купити людську рабиню
+#L002Text,Купити ельфiйську рабиню
+#L003Text,Купити карликову рабиню
+#L004Text,Купити пухнасту рабиню
+#L005Text,Купити маленьку пухнасту рабиню
+#L006Text,Купити драконiдську рабиню
+#L007Text,Продати гоблiнського монстра
+#L008Text,Продати оркiнського монстра
+#L009Text,Продати оборотня
+#L010Text,Продати мiнотавра
+#L011Text,Продати саламандра-монстра
+#L012Text,Манiпуляцiї на ринку
+
+#L101Text,Розiбрати людську рабиню
+#L102Text,Розiбрати ельфiйську рабиню
+#L103Text,Розiбрати карликову рабиню
+#L104Text,Розiбрати пухнасту рабиню
+#L105Text,Розiбрати маленьку пухнасту рабиню
+#L106Text,Розiбрати драконiдську рабиню
+#L107Text,Розiбрати гоблiнського монстра
+#L108Text,Розiбрати оркiнського монстра
+#L109Text,Розiбрати оборотня
+#L110Text,Розiбрати мiнотавра
+#L111Text,Розiбрати саламандра-монстра
+#L112Text,Створити пiксi
+
+#L201Text,Виготовити iн'єкцiю для вiдновлення цiлостi дiвственностi
+#L202Text,Виготовити iн'єкцiю для вiдновлення здоров'я
+#L203Text,Виготовити iн'єкцiю для вiдновлення молочних залоз
+#L204Text,Виготовити iн'єкцiю для вiдновлення венеричного захворювання
+#L205Text,Виготовити iн'єкцiю для вiдновлення яйцеклiтини
+#L206Text,Виготовити препарат для пiдвищення репродуктивностi
+#L207Text,Виготовити афродизiак
+#L208Text,Виготовити вiагру
+#L209Text,Виготовити засiб для пiдвищення чутливостi 3000x
+#L210Text,Виготовити пральний порошок
+#L211Text,Виготовити рабиню
+#L212Text,Виготовити монстра
+#L213Text,Виготовити великого монстра
+
+#L301Text,Спожити презерватив
+#L302Text,Спожити гель для любовi
+#L303Text,Купити косметичний засiб
+#L304Text,Провести клiєнта
+#L305Text,Досягти рiвня репутацiї 1
+#L306Text,Досягти рiвня репутацiї 2
+#L307Text,Досягти рiвня репутацiї 3
+#L308Text,Досягти рiвня репутацiї 4
+#L309Text,Досягти рiвня репутацiї 5
+#L310Text,Досягти рiвня репутацiї 6
+#L311Text,Досягти рiвня репутацiї 7
+
+// ToolTip
+
+#FloraUnlock,Флора буде вiдкрита вдень 11.
+#NielUnlock,Нiел буде вiдкритий вдень 16.
+#SenaLenaUnlock,Сена i Лена будуть вiдкритi вдень 21.
+
+#AmiliaAction1Text,<color=#AEFC9B>Клiкнiть</color>, щоб вiдкрити вiкно подiї на ринку.
+#AmiliaAction2Text,<color=#AEFC9B>Перетягнiть</color> сюди рабiв або монстрiв для продажу.<BR><color=#AEFC9B>Клiкнiть</color>, щоб вiдкрити вiкно курсу ринку.
+#AmiliaAction3Text,<color=#AEFC9B>Клiкнiть</color>, щоб привести нових рабiв i монстрiв.
+#FloraAction1Text,<color=#AEFC9B>Сворення пiксi</color>.<BR>{0} / {1}
+#FloraAction2Text,<color=#AEFC9B>Перетягнiть</color> сюди рабiв або монстрiв для розбирання.
+#NielAction1Text,<color=#AEFC9B>Перетягнiть</color> сюди ДНК для налаштування рабiв i монстрiв.<BR><color=#AEFC9B>Клiкнiть</color>, щоб вiдкрити вiкно налаштувань.
+#NielAction2Text,<color=#AEFC9B>Клiкнiть</color> тут, щоб вiдкрити вiкно об'єднання предметiв.
+
+#TestText00,このボタンでNPCたちのシーンを確認することができます。
+#DemoText00,You cannot earn achievement points in the trial version.
+
+#MarketRateColorText1, Невiльники з волоссям <color=#{0}>{1}</color> вважаються цiнними.
+#MarketRateColorText2, Невiльники з очима <color=#{0}>{1}</color> вважаються цiнними.
+#MarketRateColorText3, Монстри зi шкiрою <color=#{0}>{1}</color> вважаються цiнними.
+#MarketRateColorText4, Монстри з очима <color=#{0}>{1}</color> вважаються цiнними.
+#MarketRateColorText5, Ринкова ставка + 20%
+
+// Story Text
+
+#StoryText00100,Брокер на вершинi мого звичайного бiзнесу запропонував менi дивну угоду.
+#StoryText00150,Вона запропонувала працювати разом.
+#StoryText00200,Якщо я працював з нею, найвищою злочинною органiзацiєю на континентi, я не мiг б гарантувати своє життя, але це була можливiсть заробити багато грошей.
+#StoryText00300,Я прийняв її пропозицiю без жодних сумнiвiв.
+#StoryText00350,Тому що в мене все одно нiчого не було...
+
+#StoryText00400,Ну, менi потрiбно пройти деякi випробування, перш нiж я передамо цю справу вам.
+#StoryText00500,Подивимось, чи зможете ви приносити прибуток нашiй органiзацiї.
+#StoryText00600,Наразi я залишаю цю територiю вам.
+#StoryText00700,Пiсля <color=#FFFF00>'50 днiв'</color> на пiдставi прибутку наша органiзацiя розгляне вашу пропозицiю.
+#StoryText00750,Не хвилюйтесь. Звiсно, спочатку я допоможу вам.
+#StoryText00760,Спочатку пiднiмемо монстрiв.
+
+#StoryText00800,Будь ласка, збудуйте клiтку для монстрiв i рабiв.
+#StoryText00900,Побудуйте клiтку для рабiв.
+#StoryText01000,Побудуйте клiтку для монстрiв.
+
+#StoryText01100,Я вам подарую рабiв i монстрiв як послугу.
+#StoryText01200,Будь ласка, користуйтеся ними обережно.
+#StoryText01300,Раби та монстри мають рiзний вигляд та раси.
+#StoryText01400,Кожна раса має власнi риси, тому користуйтеся ними ретельно.
+#StoryText01500,<color=#FFFF00>'Люди'</color> - це основна раса, i сама раса має високу привабливiсть, тому менi всеодно, яку расу ви оберете.<BR>Спецiалiзованi риси: <color=#63E057>Шанс зачаття +5%</color>, <color=#63E057>Час зростання -5</color>, <color=#E07369>Максимальне здоров'я -15</color>, <color=#E07369>Ймовiрнiсть вагiтностi -3</color>
+#StoryText01600,<color=#FFFF00>'Гоблiни'</color> - це базова раса, i в них коротший час спарювання.<BR>Спецiалiзованi риси: <color=#63E057>Час зростання -5</color>, <color=#E07369>Шанс зачаття -5%</color>
+
+#StoryText02550,Тепер дозвольте менi розповiсти, як <color=#FFFF00>'розмножувати'</color>.
+#StoryText02600,Побудуйте кiмнату для розведення.
+#StoryText02700,Перемiстiть монстра в кiмнату для розведення.
+#StoryText02800,Перемiстiть раба в кiмнату для розведення.
+#StoryText02900,Чи вам вистачає iнформацiї про спарювання?
+
+#StoryText03000,Тепер давайте поговоримо про <color=#FFFF00>'продаж'</color> та <color=#FFFF00>'купiвлю'</color>.
+#StoryText03100,Якщо ви хочете <color=#FFFF00>'продати'</color> рабiв або монстрiв, приведiть їх до вiзка.
+
+#StoryText03200,Бажаєте купити новий продукт?
+#StoryText03300,Тодi зачекайте мить.
+#StoryText03400,Я працюю кожного дня пiд час <color=#FFFF00>'дня'</color> як законний торговець <color=#FFFF00>'рабами'</color>.
+#StoryText03500,Якщо ви хочете придбати <color=#FFFF00>'монстра'</color>, зачекайте до <color=#FFFF00>'ночi'</color>.
+#StoryText03600,Тому що торгiвля монстрами є незаконною.
+#StoryText03700,Якщо ви хочете купити монстра або раба, просто <color=#FFFF00>'перетягнiть i вiдпустiть'</color> продукт у потрiбне мiсце.
+#StoryText03800,Ви можете швидко продавати i купувати продукти, використовуючи <color=#FFFF00>'швидке меню'</color>.
+
+#StoryText25200,З цього часу я буду отримувати <color=#FFFF00>'вiдшкодування'</color> кожнi <color=#FFFF00>'5 днiв'</color>.
+#StoryText25300,Замiсть грошей... краще буде отримати <color=#FFFF00>'монстра'</color>.
+#StoryText25400,Я дозволю вам взяти монстра, замiсть того, щоб допомогти менi в бiзнесi.
+#StoryText25500,Амiлiя отримує <color=#FFFF00>'винагороду в монстрах кожнi 5 днiв'</color>.
+#StoryText25600,Про монстрiв, якi будуть винагородженi, Амiлiя повiдомляє наперед, i на 5-й день ви можете <color=#FFFF00>'сплатити, продавши монстра'</color> Амiлiї.
+#StoryText25700,Якщо ви <color=#FFFF00>'навiть раз невдачливi в оплатi'</color>, то гра завершується з <color=#FF0000>'програшем'</color>.
+
+#StoryText05000,Тодi добре ведiть справу до <color=#FFFF00>'50 днiв'</color>.
+#StoryText05100,Якщо ви зробите прибуток, органiзацiя його прийме.
+#StoryText05200,Чим бiльше ви сплатите, тим краще вас помiтять.
+#StoryText05300,Якщо прибуток великий, ви можете взяти пiд свiй контроль органiзацiю.
+#StoryText05350,А, i найостаннє, не звертайте увагу на пiдвал, так як його побудував попереднiй власник i вiн не має великого значення.
+#StoryText05400,Тодi, колего, робiть своє краще ♥
+
+#StoryText06500,Раби можуть <color=#FFFF00>'заражати монстрiв'</color> i <color=#FF0000>'врештi-решт вмирати'</color>.
+#StoryText06600,Майте на увазi, що <color=#FFFF00>'зараженi монстри'</color> стають <color=#FF0000>'еректильною дисфункцiєю'</color> i не можуть бiльше бути вироблянi.
+
+#StoryText12200,Дозвольте менi представити вам <color=#FFFF00>'Бiзнес-партнера'</color> у верхнiй частинi нашої сторiнки.
+#StoryText12300,Її звуть <color=#C27AEB>Флора</color>. Вона буде вiдповiдальною за розiбрання монстрiв та рабiв.
+#StoryText12400,Радi познайомитися~
+#StoryText12500,Якщо ви <color=#FFFF00>'розiберете монстрiв i рабiв'</color>, ви отримаєте <color=#FFFF00>'побiчнi продукти'</color>.
+#StoryText12600,<color=#FFFF00>'Побiчнi продукти'</color> можна <color=#FFFF00>'продавати або використовувати в поєднаннi з iншими предметами'</color>.
+#StoryText12700,Тодi, будь ласка, викликайте її в будь-який час, коли вам це потрiбно.
+#StoryText12800,Викликайте її в будь-який час, коли вам це потрiбно.
+
+#StoryText12900,Привiт
+#StoryText13000,Ми покажемо вам, як використовувати нашi примiщення.
+#StoryText13100,<color=#FFFF00>'Перетягнiть монстрiв i рабiв'</color> сюди, i вони автоматично <color=#FFFF00>'розiбранi'</color>.
+#StoryText13200,Пiсля завершення розiбрання ви можете автоматично отримати рiдкiснi <color=#FFFF00>'побiчнi продукти'</color>.
+#StoryText13210,Якщо ви робите багато розiбрання, буде створено особлива <color=#FFFF00>'фея-пiксi'</color>.
+#StoryText13220,Феї-пiксi це хорошi дiти, якi <color=#FFFF00>'автоматично керують рабами'</color>.
+#StoryText13300,Розумiєте? Тодi будь ласка використовуйте це часто! Будь ласка, створюйте багато феї, також!
+
+#StoryText13400,Дозвольте представити вам <color=#FFFF00>'Бiзнес-партнера'</color> нашої сторiнки.
+#StoryText13500,Її звуть <color=#4DF4E4>Нiл</color>. Вона буде вiдповiдальною за синтез побiчних продуктiв.
+#StoryText13600,Привiт~
+#StoryText13700,<color=#FFFF00>'Вона може виробляти рiзнi предмети, комбiнуючи побiчнi продукти.'</color>
+#StoryText14000,Тож, якщо вам потрiбно, викликайте її в будь-який час.
+#StoryText14100,Викликайте мене, коли вам потрiбно~
+
+#StoryText14200,Привiт~ Любий?
+#StoryText14300,Тодi я покажу вам, як користуватися цим обладнанням~
+#StoryText14400,Клацнiть на <color=#FFFF00>'Котел'</color>, щоб переглянути, якi предмети можна виготовити~
+#StoryText14500,<color=#FFFF00>'З побiчних продуктiв можна виготовити предмети~'</color>
+#StoryText14600,<color=#FFFF00>'Якщо виробництво завершено, предмети автоматично надходять у вашу власнiсть~'</color>
+#StoryText14800,Тож користуйтесь на здоров'я~
+
+#StoryText14900,Ви можете витрачати бали досягнень та покращувати можливостi НiП.
+#StoryText15000,Не iснує певного порядку покращень, ви можете обирати та покращувати все, що завгодно.
+
+#StoryText16400,Додано новий наземний комплекс.
+#StoryText16600,З цього моменту ми можемо надавати новi послуги нашим клiєнтам.
+
+#StoryText16700,Тепер, обiцяний строк.
+#StoryText16800,Давайте подивимося, скiльки прибутку ми залишили у собi.
+#StoryText16900,Хм... Менi здається, я неправильно зрозумiв цю людину.
+#StoryText17000,Нiчого не можу зробити...
+#StoryText17100,Ви виходите, оскiльки не зробили жодного прибутку.
+#StoryText17200,Отже, прощайте...
+#StoryText17300,Не погано.
+#StoryText17400,Це пройшло.
+#StoryText17500,Давайте добре працювати в майбутньому.
+#StoryText17600,Спiвробiтник♡
+#StoryText17700,Увiйдiть в безкiнечний режим.
+#StoryText17800,Менi ще багато чого не вистачає, але дякую за гру!
+
+#StoryText04500,Здається, рабиня <color=#FFFF00>'вагiтна'</color>?
+#StoryText04600,Побудуйте Кiмнату для пологiв, щоб розроджувати рабинь.
+#StoryText04700,Будь ласка, виховуйте малюка добре, оскiльки вiн має цiннiсть тiльки як дорослий.
+#StoryText04800,Побудуйте Кiмнату для пологiв.
+#StoryText04900,Перемiстiть рабиню до Кiмнати для пологiв i розродьтеся.
+
+#StoryText06700,Рабиня народила дитину, чи не так?
+#StoryText06710,Будь ласка, перенесiть дитячi речi до клiтки.
+#StoryText06800,Ви можете доїти рабиню, яка перенесла вагiтнiсть i народження, отримуючи материнське молоко цим способом.
+#StoryText06900,Давайте подивимось, як доїти материнське молоко.
+#StoryText07000,Побудуйте кiмнату для доїння.
+#StoryText07100,Перемiстiть рабиню до кiмнати для доїння.
+#StoryText07200,Молоко видiляється, коли рабиня народила не один раз.
+#StoryText07300,Клацнiть на молоко-збiрник, щоб створити пляшку молока.
+#StoryText09500,Клацнiть на молоко-збiрник позаду кiмнати для доїння, щоб витратити певну кiлькiсть молока i отримати молочнi предмети.
+#StoryText09600,Молоко-збiрник зберiгає велику кiлькiсть молока, тому клацнiть на молоко-збiрник, щоб отримувати молоко за потребою.
+
+#StoryText09700,У рабiв є стани <color=#FFFF00>'здоров'я'</color>, якi <color=#FFFF00>'зменшуються на певну кiлькiсть пiд час спарювання з монстрами'</color> i <color=#FF0000>'призводять до смертi, коли досягають 0'</color>.
+#StoryText09800,Краще вiдновлювати <color=#FFFF00>'здоров'я'</color>, дозволяючи рабам вiдпочивати в <color=#FFFF00>'клiтцi'</color>, перш нiж вони стануть непридатними.
+
+#StoryText25800,Я отримав вищезазначену доставку.
+#StoryText25900,iнодi це сервiс.
+#StoryText26000,Тепер виберiть <color=#FFFF00>'продукт, який обслуговується'</color> цього разу.
+#StoryText26100,Для вибраного продукту я отримаю <color=#FFFF00>'150% при покупцi'</color> i <color=#FFFF00>'50% при продажу'</color>.
+#StoryText26200,<color=#FFFF00>'Протягом дня'</color> ми будемо обслуговувати продукт.
+#StoryText26300,Ось наступний товар.
+#StoryText26400,Тодi я чекатиму на нього через п'ять днiв.
+
+#StoryText27300,Thanks to your hard work, the <color=#FFFF00>'pixy'</color> was created.
+#StoryText27400,You can take care of the slaves more comfortably through the pixies.
+#StoryText27500,If you <color=#FFFF00>'dismantle more than a certain number of slaves or monsters, a pixy is created'</color>. You can <color=#FFFF00>'take care of slaves automatically through the pixy'</color>.
+#StoryText27600,Pixies fly freely around the field and perform the following functions.
+#StoryText27900,When a slave's health falls below a certain level, it is moved to a nearby slave cage to restore health and return to its original position.
+#StoryText28000,When a slave becomes pregnant, it is moved to a nearby delivery room to give birth and return to its original position.
+#StoryText28050,Move babies in the delivery room to an empty cage.
+#StoryText28100,When the slave's milk is full, it is moved to a nearby milking room and returned to the original position after milking.
+#StoryText28200,One pixy can only handle one task at a time, and as slaves and monsters increase, more pixies may be needed.
+
+#StoryText29100,Отримали щось цiкаве?
+#StoryText29200,Ви можете використовувати це <color=#FFFF00>'для створення монстра або раба з випадковим статусом'</color>.
+#StoryText29250,Зовнiшнiсть i риси випадковi. Замiсть цього я зроблю їх кращими, нiж iснуючi продукти.
+#StoryText29300,Якщо ви помiстите свiй ДНК сюди, я зроблю його чим завгодно, чи то рабом, чи монстром~
+#StoryText29400,Ви можете отримувати <color=#FFFF00>'спецiальнi предмети ДНК'</color>, розглядаючи їх як <color=#FFFF00>'розiбранi'</color>. Якщо ви заберете їх до Нiель, ви зможете створити рабiв або монстрiв з випадковими рисами.
+#StoryText29500,Є <color=#FFFF00>'монстри, якi можна отримати лише за допомогою ДНК'</color>, тому будь ласка, скористайтеся ними.
+
+#StoryText29600,Дорогий~, моє замовлення вже готове~
+#StoryText29700,дозволь менi взяти його~
+
+#StoryText29800,О, давно не бачилися?
+#StoryText29900,Ви можете створити будь-що з цим~
+#StoryText30000,Навiть якщо вони були <color=#FFFF00>'вимираючими в давнi часи'</color>~
+#StoryText30100,Якщо ви використовуєте <color=#FFFF00>'походження ДНК'</color>, ви можете створювати рабiв i монстрiв без рiзницi, i ви також можете створити <color=#FFFF00>'великих монстрiв, якi вимирали в давнi часи'</color>.
+#StoryText30200,<color=#FFFF00>'Великого монстра'</color> потрiбно <color=#FFFF00>'сюди окрему клiтку та окрему кiмнату для розведення'</color> та <color=#FFFF00>'Розведення'</color> в <color=#FFFF00>'Воно вимагає багато роботи, такi як 'потрiбна спецiальна раба з трьома подвiйними вагiтностями'</color>, але саме тому <color=#FFFF00>'вартiсть висока'</color>.
+
+#StoryText30400,Це рабиня-ельф, продана нашiй компанiї.
+#StoryText30600,Це рабиня-кролик, продана нашiй компанiї.
+#StoryText30700,Це маленька рабиня-кролик, продана нашiй компанiї.
+#StoryText30800,Це рабиня-драконiд, продана нашiй компанiї.
+#StoryText30900,Сподiваюсь, вам сподобається користуватися нею.
+
+#StoryText31000,Додано новий товар.
+#StoryText31100,Це було досить важко отримати.
+#StoryText31200,<color=#FFFF00>'Ельфи'</color> - це магiчний народ, який має вiдмiнну фiзичну силу та не дуже дружить з карликами. Вони вважають дiвство цiннiстю i соромом втратити його.<BR>Спецiалiзованi риси: <color=#63E057>Витрати на утримання -5</color>, <color=#63E057>Максимальне здоров'я +15</color>, <color=#E07369>Швидкiсть зачаття -5%</color>, <color=#E07369>Час зростання +5</color>, <color=#E07369>Можливiсть багатодiтностi -1</color>
+#StoryText31300,Було важко дiзнатися, що вони приховують, можливо, через їх маленький рiст.
+#StoryText31400,<color=#FFFF00>'Карлики'</color> - це меншiсть з вiдмiнними фiзичними здiбностями та швидким вiдновленням. Вони не дуже дружать з ельфами. Вони вважають, що це добродiйство бути плiдним.<BR>Спецiалiзованi риси: <color=#63E057>Швидкiсть зачаття +5%</color>, <color=#63E057>Максимальна кiлькiсть дiтей +3</color>, <color=#63E057>Можливiсть багатодiтностi +1</color>, <color=#E07369>Час зростання +5</color>, <color=#E07369>Витрати на утримання +5</color>
+#StoryText31500,Було досить важко впiймати їх у лiсi.
+#StoryText31600,<color=#FFFF00>'Кролики'</color> - це багаторазовий народ. Вони фiзично слабкi i оптимiзованi для поширення своїх генiв.<BR>Спецiалiзованi риси: <color=#63E057>Швидкiсть зачаття +10%(Загальнi)</color>, <color=#63E057>Можливiсть багатодiтностi +1(Неко)</color>, <color=#63E057>Час зростання -10(iну)</color>, <color=#E07369>Максимальне здоров'я -30(Загальнi)</color>, <color=#E07369>Час зростання +10(Неко)</color>, <color=#E07369>Витрати на утримання +10(iну)</color>
+#StoryText31700,Було досить важко впiймати те, що ховалося в лiсi.
+#StoryText31800,<color=#FFFF00>'Маленькi кролики'</color> - це багаторазовий народ. Вони фiзично слабкi i оптимiзованi для поширення своїх генiв.<BR>Спецiалiзованi риси: <color=#63E057>Швидкiсть зачаття +10%(Загальнi)</color>, <color=#63E057>Максимальна кiлькiсть дiтей +6(Усаго)</color>, <color=#63E057>Витрати на утримання -10(Хiцуджi)</color>, <color=#E07369>Максимальне здоров'я -30(Загальнi)</color>, <color=#E07369>Час зростання +10(Хiцуджi)</color>, <color=#E07369>Витрати на утримання +10(Усаго)</color>
+#StoryText31900,Це було дiйсно важко впiймати.
+#StoryText32000,<color=#FFFF00>'Драконiд'</color> - це сильний народ, який надає перевагу позитивним рисам.<BR>Спецiалiзованi риси: <color=#63E057>Швидкiсть зачаття +10%</color>, <color=#63E057>Час зростання -10</color>, <color=#63E057>Максимальне здоров'я +30</color>, <color=#63E057>Максимальна кiлькiсть дiтей +6</color>, <color=#E07369>Витрати на утримання +10</color>, <color=#E07369>Можливiсть багатодiтностi -1</color>
+#StoryText32100,Важко впiймати такого великого монстра.
+#StoryText32200,<color=#FFFF00>'Орки'</color> повiльно розмножуються, а їхнi дiти швидко ростуть.<BR>Спецiалiзованi риси: <color=#63E057>Швидкiсть зачаття +5%</color>, <color=#E07369>Час розмноження +5</color>
+#StoryText32300,Вони грубi, тому будьте обережнi в обробцi їх.
+#StoryText32400,<color=#FFFF00>'Вiдьмаки'</color> мають дуже високу швидкiсть спарювання, а їхнi дiти дуже швидко ростуть.<BR>Спецiалiзованi риси: <color=#63E057>Час розмноження -5</color>, <color=#E07369>Витрати здоров'я рабинi пiд час спарювання +0.05</color>
+
+#StoryText09900,Рабiнь <color=#FF0000>померла</color>.
+#StoryText10000,Рабiнь <color=#FFFF00>'померла i кiмната руйнується з часом'</color>.
+#StoryText10100,Тодi iншi раби та монстри в кiмнатi можуть отримати <color=#FF0000>'статевi захворювання'</color>.
+#StoryText10200,Давайте побудуємо морг та запечатаемо там рабиню.
+#StoryText10300,Побудуйте морг.
+#StoryText10400,Перемiстiть рабиню до моргу.
+#StoryText10500,Якщо кiмната забруднена, клацнiть на iконку чистої кiмнати, щоб її прибрати.
+#StoryText10600,Якщо в моргу немає мiсця, ви можете <color=#FFFF00>'поховати тiло через Амiлiю'</color>.<BR>Проте в цьому випадку виникають <color=#FFFF00>'додатковi витрати'</color>.
+
+#StoryText32500,У вас пiднявся рiвень розпустiння рабинi?
+#StoryText32600,Чим вищий рiвень розпустiння, тим покiрнiше вона буде виконувати свої обов'язки.
+#StoryText32700,За можливостi, вам слiд продати кiлькох рабинь з високим рiвнем розпустiння, щоб отримати прийнятну цiну.
+#StoryText32800,Це мiнiмальний поради, яку я можу вам дати.
+#StoryText32900,Раби мають статус розпустiння.
+#StoryText33000,<color=#FFFF00>'Розпустiння'</color> може пiдвищуватися шляхом <color=#FFFF00>'Сексу, народження та доїння'</color>. Чим вищий рiвень розпустiння, тим вища цiна рабинi, та тим бiльше вона приносить прибуток в бордель <color=#FFFF00>'Цiна збiльшується при наданнi послуг в борделi'</color>, а також пiдвищується <color=#FFFF00>'Трейт'</color>.
+#StoryText33100,Також, чим вищий рiвень розпустiння, тим менше ймовiрнiсть, що рабиня схопиться з борделю.
+
+#StoryText33200,Раби мають рiзнi статистичнi характеристики.
+#StoryText33300,Монстри мають рiзнi статистичнi характеристики.
+#StoryText33400,Вони мають расовi особливостi, якi фiксованi для кожної раси.
+#StoryText33500,Загальнi характеристики - це характеристики, якi розвивають їхнi статистичнi характеристики. Їх можна передавати через розмноження, i вони також можуть передавати характеристики, якi не пов'язанi з ними.
+#StoryText33600,Якщо ви правильно використовуєте це, ви можете створити своїх улюблених рабiв та монстрiв.
+
+#StoryText07400,Малюк пiдрiс.
+#StoryText07500,Вона ще може завагiтнiти i народити, але давайте рости знову.
+#StoryText07600,Грудне вигодовування може допомогти дитинi рости у формi.
+#StoryText07700,Дитина виростає в фiгурку лолi. А якщо пити бiльше грудного молока, вона виросте дорослою фiгурою.
+#StoryText07750,Перетягнiть грудне молоко до неї.
+#StoryText07800,<color=#FFFF00>'Лолi-фiгура'</color> має <color=#FFFF00>'такий же статус i може заснувати i народжувати дiтей'</color>, але <color=#FF0000>'вiдновлення здоров'я повiльне'</color>.
+
+#StoryText33700,<color=#FFFF00>'Грудне молоко'</color> має багато використань, воно може допомогти вашiй <color=#FFFF00>'дитинi зростати або розвивати новi риси'</color>.
+#StoryText33800,Давайте спробуємо молоко матерi, отримане цього разу.
+#StoryText33900,Годування рабiв материнським молоком має шанс виявити новi риси або розвивати iснуючi риси.
+#StoryText34000,Годуйте своїх рабiв материнським молоком.
+#StoryText34100,Риси рабiв були оновленi, таким чином ви можете виправити риси рабiв.
+#StoryText34200,Розумiєте? Тодi, будь ласка, використовуйте це в свою користь.
+
+#StoryText34300,На цьому етапi ми можемо довiрити основнi продукти нашiй органiзацiї.
+#StoryText34400,Це - <color=#FFFF00>'реставрацiйна робота давно вимерлого стародавнього монстра'</color>.
+#StoryText34500,Спочатку залиште цього <color=#FFFF00>'гоблiна'</color> <color=#C27AEB>'Флорi'</color> для <color=#FFFF00>'розiбрання його'</color>.
+#StoryText34600,Ви отримали <color=#FFFF00>'ДНК'</color>?
+#StoryText34700,Якщо ви довiрите <color=#FFFF00>'ДНК'</color> <color=#4DF4E4>'Нiєлю'</color>, ви зможете <color=#FFFF00>'вiдновити давно вимерлого стародавнього монстра'</color>.
+#StoryText34800,<color=#FFFF00>'Походження ДНК'</color> - це <color=#FFFF00>'предмет, який виходить з певною ймовiрнiстю'</color> при розiбираннi монстра або раба.
+#StoryText34900,Ви можете використовувати це для створення <color=#FFFF00>'всiх монстрiв i рабiв, а також монстрiв, якi були знищенi в давнi часи'</color>.
+
+#StoryText35000,Ви здобули великого монстра?
+#StoryText35100,Великим монстрам потрiбнi <color=#FFFF00>'спецiальнi клiтки'</color> i <color=#FFFF00>'спецiальнi примiщення для розведення'</color>.
+#StoryText35200,i вам потрiбнi <color=#FFFF00>'спецiальнi раби'</color>, щоб їх розводити.
+#StoryText35300,Я подарую вам спецiального раба в якостi послуги.
+#StoryText35400,Цей раб може легко зачати дитину великого монстра.
+#StoryText35500,Раби з <color=#FFFF00>'цiєю здатнiстю 3'</color> можуть зачати та <color=#FFFF00>'народити великих монстрiв'</color>.
+
+#StoryText35600,Ви знаєте про <color=#FFFF00>'ринкову ставку'</color>?
+#StoryText35700,<color=#FFFF00>'Ринкова ставка змiнюється кожної ночi/дня.'</color> Будьласка, використовуйте це добре.
+
+#StoryText35800,Гравцi заробляють <color=#FFFF00>'Очки досягнень, виконуючи певнi дiї'</color>.
+#StoryText35810,Ви можете <color=#FFFF00>'Витрачати очки досягнень'</color> для <color=#FFFF00>'Покращення навичок NPC'</color>.
+#StoryText35820,Немає порядку покращень, ви можете <color=#FFFF00>'вибрати, що ви хочете покращити'</color>.
+
+#StoryText35900,Рiзноманiтнi подiї вiдбуваються в залежностi вiд поведiнки гравця.
+#StoryText36000,Оскiльки бiльшiсть подiй заважають грi, грайте дилiжентно, щоб їх уникнути.
+
+#StoryText36100,Давно я не демонстрував свої здiбностi.
+#StoryText36200,дозвольте менi вас вразити~
+
+#StoryText36300,У раба є <color=#FF0000>'Венерична хвороба'</color>.
+#StoryText36400,Давайте позбавимося вiд неї, оскiльки, якщо залишити все як є, венерична хвороба пошириться, i вартiсть продукту зменшиться.
+#StoryText36500,Якщо <color=#FFFF00>'раби не хочуть заразитися Венеричною хворобою, то тримайте достатню кiлькiсть презервативiв в борделi'</color>.
+
+#StoryText36600,Що скажете на розширення вашого бiзнесу з цього моменту?
+#StoryText36700,Давайте переделаємо непотрiбний грунт i використовуватимемо його як <color=#FFFF00>'бордель'</color>.
+#StoryText36800,Тепер ви можете приймати клiєнтiв.
+#StoryText36900,Перед цим дозвольте менi представити вас <color=#FFFF00>'спiвробiтникам бiзнесу'</color>.
+#StoryText37000,<color=#FFD158>'Сена'</color> i <color=#FFD158>'Лена'</color> сестри беруть на себе <color=#FFFF00>'iнформацiю та продажi борделю'</color>.
+#StoryText37100,Доброго ранку!
+#StoryText37200,Доброго ранку...
+#StoryText37300,Тодi давайте разом розпочнемо бiзнес борделя.
+#StoryText37400,Пiдходьте сюди! Я вас навчу.
+
+#StoryText37500,Ну, я все поясню вам!
+#StoryText37600,Ми i моя сестра будемо дивитися на прилавок тут i направляти вас до <color=#FFFF00>'зручностей, якi бажають клiєнти'</color>!
+#StoryText37700,Якщо ви хочете ефективно працювати, я думаю, краще мати <color=#FFFF00>'рiзноманiтнi установки...'</color>
+#StoryText37800,Вони також продають <color=#FFFF00>'презервативи'</color>!
+#StoryText37900,На всякий випадок, ми можемо <color=#FFFF00>'запобiгти венеричним хворобам у клiєнтiв...'</color>
+#StoryText38000,Вони також продають <color=#FFFF00>'гель для кохання'</color>!
+#StoryText38100,Вiн зм'якшує введення i <color=#FFFF00>'зменшує час користування клiєнтом...'</color>
+#StoryText38200,Вони також продають дивнi лiки!
+#StoryText38300,<color=#FFFF00>'Косметичний засiб'</color> може <color=#FFFF00>'змiнювати зовнiшнiй вигляд рабiв або монстрiв на власний розсуд...'</color>
+#StoryText38400,Тепер спробуйте побудувати установку!
+
+#StoryText38500,Перший клiєнт!
+#StoryText38600,Ви повиннi розмiстити рабiв на мiсцях, щоб їх використовувати... ви повиннi розмiстити рабiв на мiсцях, щоб їх використовувати...
+#StoryText38700,Ми пiклуємось про здоров'я рабiв, але це не пiд нашою юрисдикцiєю, поки раби не втечуть...
+#StoryText38800,Так що, якщо ви хочете мiнiмiзувати збитки, вам краще розгорнути <color=#FFFF00>'рабiв, чия розпустiсть завершена...'</color>
+
+#StoryText38900,Якщо клiєнти використовують це, це покращить їхню <color=#FFFF00>'репутацiю'</color>. Чим бiльше репутацiї у вас є, <color=#FFFF00>'тим бiльше установок i клiєнтiв у вас буде!'</color>
+#StoryText39000,Тож слiдкуйте за своєю репутацiєю. Також прибирайтеся!
+#StoryText39100,Це все для нашого пояснення, i я з нетерпiнням чекаю на спiвпрацю з вами!
+#StoryText39200,Давайте залишатися на зв'язку...
+
+#StoryText39300,Ви можете <color=#FFFF00>'змiнювати зовнiшнiй вигляд рабiв i монстрiв на власний розсуд'</color>, якщо ви годуєте Косметичний засiб.
+#StoryText39400,Зовнiшнiй вигляд, виправлений за допомогою косметичного засобу, <color=#FFFF00>'успадковується наступному поколiнню'</color>.
+
+#StoryText39800,Репутацiя трохи покращилася...
+#StoryText39900,Я зроблю можливим використання нового обладнання за допомогою послуги...
+#StoryText40000,Вiдтепер ми можемо пропонувати новi послуги клiєнтам, якi зацiкавленi у зоофiлiї.
+#StoryText40100,Додана установка для шоу зоофiлiї i отримання грошей.
+#StoryText40200,У випадку кiнь, вiн <color=#FFFF00>'обробляється як великий монстр'</color>, i для вагiтностi кiнь потрiбнi <color=#FFFF00>'тi ж умови, що й для великого монстра'</color>.
+#StoryText40300,Сенна i Лена негайно допоможуть вам з процесом продажу.
+
+#StoryText40400,Репутацiя трохи покращилася!
+#StoryText40500,Я зроблю можливим використання нового обладнання за допомогою послуги...
+#StoryText40600,Тепер ви можете пропонувати новi послуги клiєнтам, якi люблять робити дiти!
+#StoryText40700,Додана установка, де ви можете показувати народження i отримувати грошi.
+#StoryText40800,<color=#FFFF00>'Ви не можете народжувати монстрiв, можуть народжувати лише люди i тварини'</color> в земельних установках.
+
+#StoryText40900,Репутацiя трохи покращилася...
+#StoryText41000,Я зроблю можливим використання нового обладнання за допомогою послуги...
+#StoryText41100,Ви повиннi бути здатнi пропонувати вдосконаленi послуги...
+
+#StoryText41200,Репутацiя значно покращилася!
+#StoryText41300,Я зроблю можливим використання нового обладнання за допомогою послуги...
+#StoryText41400,Вiдкрито розкiшнi VVIP-кiмнати, якi пропонують найкращий сервiс!
+#StoryText41500,VVIP-кiмната - це <color=#FFFF00>'спецiальна установка'</color>, де на полi будується <color=#FFFF00>'лише одна'</color>.
+#StoryText41600,Це заклад лише для багатих, де <color=#FFFF00>'розпуста завершена i можуть бути розмiщенi лише раби без венеричних хвороб'</color>.
+#StoryText41700,Можна розмiстити <color=#FFFF00>'двох рабiв'</color>, i розмiщенi раби переодягаються в сукнi господинi, щоб обслуговувати багатих клiєнтiв.
+
+#StoryText41800,Вiдкрито приватне маєток. Ви можете увiйти до свого приватного маєтку, натиснувши кнопку.
+#StoryText41900,Ви можете будувати установки та розмiщувати рабiв i монстрiв у своєму приватному маєтку, так само, як i на iснуючому маєтку.
+#StoryText42000,В приватних маєтках не вiдбувається споживання ресурсiв, i клiєнти не приходять, навiть якщо ви будуєте бордель.
+#StoryText42100,Замiсть цього є персонаж гравця, який може бути використаний для створення незаконної дитини гравця та перенесення її на iснуючий маєток.
+
+#StoryText42200,Перш нiж розпочати роботу, давайте визначимо 'назву' для маєтку.
+#StoryText42300,Ви знали, що назва може впливати на успiшнiсть бiзнесу?
+#StoryText42400,Сподiваюся, що це буде маєток, який гiдний своєї назви.
+
+#StoryText42500,Ви працюєте наполегливо.
+#StoryText42600,Я подарую вам раба, якого ви можете використовувати в подарунок.
+#StoryText42700,Це найкраща з руїнованих принцес-дворфинь.
+#StoryText42800,Оригiнально її торгували за дуже високу цiну, але я подарую вам її.
+#StoryText42900,Тодi, будь ласка, використовуйте її добре.
+
+#StoryText43000,Цей продукт - стриптизерка, яку я цiнував, але вона величезно заборгована.
+#StoryText43100,Оригiнально її треба було продавати за дуже високу цiну...
+#StoryText43200,Це забруднювати, тому я подарую вам її.
+#StoryText43300,Розглядайте це як малий подарунок вам за вашу наполегливу роботу.
+
+#StoryText43400,Давно я не бачив працiвника, як ви.
+#StoryText43500,Менi вже дуже довго гаряче
+#StoryText43600,Тепер ви можете насолоджуватися сексом з Амiлiєю.
+
+#StoryText43700,Завдяки вам моя робота стала успiшною.
+#StoryText43800,В якостi подарунка я подарую вам один з предметiв, якi я отримав на цей раз.
+#StoryText43900,Найвищорангований чистокровний ельф. Вона була мисливцем племенi, яке вигнало мене.
+#StoryText44000,Це один з здобуткiв, якi мої феї здобули, розграбовуючи село ельфiв.
+#StoryText44100,Оригiнально менi треба було дати її Амiлiї, але я подарую її спецiально вам.
+#StoryText44200,Вона простить це на цей раз.
+#StoryText44300,Тодi, будь ласка, використовуйте її добре.
+
+#StoryText44400,В знак подяки... гм♡
+#StoryText44500,Тепер ви можете насолоджуватися сексом з Флорою.
+
+#StoryText44600,Сплатний термiн настав~
+#StoryText44700,Якщо ви <color=#FFFF00>'продати'</color> монстра, який ви вирiшили менi вiддати, <color=#FFFF00>'Платiж виконано'</color>, сьогоднi.
+#StoryText44800,Звiсно, це амортизацiя, тому я не дам вам продажну цiну."
+
+#StoryText44900,Дякуємо за гру.<BR>Це все для пробної версiї.<BR>Будь ласка, очiкуйте на офiцiйну версiю.
+
+#StoryText45000,Дорогий, завдяки вам, мiй дослiд пiшов дуже далеко.
+#StoryText45100,Я подарую вам того, якого ви можете використовувати в подарунок.
+#StoryText45200,Вiн - мiй асистент-викладач у лабораторiї.
+#StoryText45300,Я намагався дати його Амiлiї, оскiльки результати дослiдження не були дуже добрими, i в нього було багато боргiв.
+#StoryText45400,Ви менi допомогли у дослiдженнi, i я подарую це Дорогому.
+#StoryText45500,Будь ласка, добре про це пiклуйтесь~
+#StoryText45600,Дорогий, завдяки вам, мiй дослiд пiшов дуже далеко.
+#StoryText45700,Сподiваюся, ви будете задоволенi моїм бiдним тiлом.
+#StoryText45800,Тепер ви можете насолоджуватися сексом з Нiєлем.
+
+#StoryText45900,Завдяки вам, бiзнес йде добре!
+#StoryText46000,Я подарую вам подарунок на згадку!
+#StoryText46100,Вона - злодiйка, яку спiймали, коли вона намагалася обiкрасти наш бiзнес!
+#StoryText46200,Я мав її викинути, але подам вам, оскiльки це завдає незручностей!
+#StoryText46300,Спробуйте використовувати її добре!
+#StoryText46400,Здається, бiзнес йде добре...
+#StoryText46500,Я подарую вам одну взамiн...
+#StoryText46600,Вона - збирачка боргiв, яку спiймали в iгорному будинку, який ми вели...
+#StoryText46700,Менi потрiбно було позбутися її, але це надто багато незручностей...
+#StoryText46800,Спробуйте використовувати її добре!
+#StoryText46900,Який успiшний бiзнес!
+#StoryText47000,Це чудово...
+#StoryText47100,Тепер ви можете насолоджуватися сексом з СенаЛеною.
+
+#StoryText47200,Раби, якi досягли максимальної рiвнi розпусти, будуть покращенi в <color=#FFFF00>'усi риси випадковим чином'</color>.
+
+#StoryText47300,Коли рабка досягає максимальної кiлькостi народжень, вона стає <color=#FFFF00>'стерильною'</color>.
+#StoryText47400,Раби, якi стають безплiдними, <color=#FFFF00>'неможливо зачати, народити або виробляти грудне молоко'</color>.
+#StoryText47500,Раби, якi є безплiдними, можуть бути повторно використанi, продавши рабiв до того, як вони стануть стерильними, або використовуючи <color=#FFFF00>'засiб для вiдновлення яєць'</color>, щоб <color=#FFFF00>'зменшити кiлькiсть народжень до 0'</color>, оскiльки <color=#FFFF00>'цiна дуже низька при продажу'</color>.
+
+#StoryText47600,Ой...
+#StoryText47700,Не можу вiрити, що це так...
+#StoryText47800,Органiзацiя вже твоя.
+#StoryText47900,Що бiльше, усi ми теж~♡
+
+#StoryText48000,У NPC є шкала симпатiї.
+#StoryText48100,Є умови, якi можуть заповнити симпатiю до NPC i можуть бути перевiренi, натиснувши кнопку.
+#StoryText48200,Ви можете переглядати H-сцени кожного NPC, якщо заповните всiх NPC симпатiєю.
+
+#StoryText48300,Якщо ви дивитесь закiнчення бiльше одного разу, ваш особистий територiя завжди вiдкрита.
+
+#MilkText,Грудне молоко видiлене з кого.<BR>Воно вiдрiзняється складним смаком.<BR>Використовується для росту тiла, ймовiрнiсть виникнення одного з наступних ознак - 15%.<BR><color=#63E057>Швидкiсть зачаття +5%<BR>Час росту -5 секунд<BR>Витрати на обслуговування -5<BR>Максимальне здоров'я +15<BR>Максимальна кiлькiсть народжень +3<BR>Багатоплiдний вагiтнiсть +1</color>
+#LoliMilkText,Грудне молоко видiлене з лолi.<BR>Воно вiдрiзняється своїм несповнолiтнiм смаком.<BR>Використовується для росту тiла.
+#HumanMilkText,Грудне молоко видiлене з людини.<BR>Воно вiдрiзняється своїм легким смаком.<BR>Використовується для росту тiла, ймовiрнiсть виникнення одного з наступних ознак - 15%.<BR><color=#63E057>Швидкiсть зачаття +5%<BR>Час росту -5 секунд</color>
+#ElfMilkText,Грудне молоко видiлене з ельфа.<BR>Воно вiдрiзняється своїм пишним запахом.<BR>Використовується для росту тiла, ймовiрнiсть виникнення одного з наступних ознак - 15%.<BR><color=#63E057>Витрати на обслуговування -5<BR>Максимальне здоров'я +15</color>
+#DwarfMilkText,Грудне молоко видiлене з гнома.<BR>Воно вiдрiзняється своєю жирнiстю.<BR>Використовується для росту тiла, ймовiрнiсть виникнення одного з наступних ознак - 15%.<BR><color=#63E057>Швидкiсть зачаття +5%<BR>Максимальна кiлькiсть народжень +3</color>
+#FurryMilkText,Грудне молоко видiлене з пухлинки.<BR>Воно вiдрiзняється смаком зерна.<BR>Використовується для росту тiла, ймовiрнiсть виникнення одного з наступних ознак - 15%.<BR><color=#63E057>Швидкiсть зачаття +10%<BR>Багатоплiдний вагiтнiсть +1<BR>Час росту -10 секунд</color>
+#SmallFurryMilkText,Грудне молоко видiлене з малої пушнинки.<BR>Воно вiдрiзняється свiжим смаком.<BR>Використовується для росту тiла, ймовiрнiсть виникнення одного з наступних ознак - 15%.<BR><color=#63E057>Швидкiсть зачаття +10%<BR>Максимальна кiлькiсть народжень +6<BR>Витрати на обслуговування -10</color>
+#DragonianMilkText,Грудне молоко видiлене з драконiда.<BR>Воно вiдрiзняється свiжим смаком.<BR>Використовується для росту тiла, ймовiрнiсть виникнення одного з наступних ознак - 15%.<BR><color=#63E057>Швидкiсть зачаття +10%<BR>Час росту -10 секунд<BR>Максимальне здоров'я +20<BR>Максимальна кiлькiсть народжень +6</color>
+
+#Cumshot,Камшот
+#Sex,Секс
+#CumshotInside,Виливання сперми всередину
+#CumshotOutside,Виливання сперми ззовнi
+#Tattoo,Татуювання
+#Idle,Перерва
+#Rest,Вiдпочинок
+#Drained,Вiдпочинок (виснаження)
+#Birth1,Перше народження
+#Birth2,Друге народження
+#Birth3,Третє народження
+#Birth4,Четверте народження
+#Birth5,П'яте народження
+#Birth6,Перше народження (виснаження)
+#Birth7,Друге народження (виснаження)
+#Birth8,Третє народження (виснаження)
+#Birth9,Четверте народження (виснаження)
+#Birth10,П'яте народження (виснаження)
+#Maid,Господиня
+#Pose,Поза
+#Harem,Гарем (CG)
+#Harem2,Гарем (CG2)
+#SemenBukakke,Сперма (у волоссi)
+#SemenOutside,Сперма (ззовнi)
+#SemenInside,Сперма (всерединi)
+
+#DepravedFace,Розпустiла мiна
+#DepravedFace0,Вимкнено
+#DepravedFace1,Увiмкнено
+#DepravedFaceText,Змiнити розпустiле обличчя можна тiльки, коли вона розпустiлася.
+
+#PixySell,Автоматичний продаж дiтей
+
+#StoryText48400,Дiти рабинiв, яким встановлено опцiю <color=#FFFF00>'Автоматичний продаж дiтей'</color>, автоматично продаються пiксiями.
+
+#WarningGameOver2,Ви не сплатили свої борги.
+#HaremClearText,<color=#AEFC9B>Умови завершення</color><BR>50,000 золотих i 100% симпатiї всiх NPC <color=#FFFF00>до 51 дня назад</color>
+#AmiliaSceneClearText,<color=#AEFC9B>Умови завершення</color><BR>100% симпатiї до Амiлiї
+#FloraSceneClearText,<color=#AEFC9B>Умови завершення</color><BR>100% симпатiї до Флори
+#NielSceneClearText,<color=#AEFC9B>Умови завершення</color><BR>100% симпатiї до Нiеля
+#SenaLenaSceneClearText,<color=#AEFC9B>Умови завершення</color><BR>100% симпатiї до Сени та Лени
+#AmiliaSceneText,Сцена з Амiлiєю
+#FloraSceneText,Сцена з Флорою
+#NielSceneText,Сцена з Нiелем
+#SenaLenaSceneText,Сцена з Сеною та Леною
+
+#StoryText48500,В режимi "Безмежна гра" немає подiй, якi перешкоджають грi, тому ви можете насолоджуватися грою комфортно.
+
+#LowPatchVersion,Версiя патча може бути застарiлою, i деякi зображення можуть не вiдображатися належним чином. (Вимога {0} або пiзнiше)
+
+#PreferenceBestiality,Зоофiлiя
+#PreferenceBirth,Пологи
+
+#No_Sell_Favorite,Ви не можете продавати улюблених рабiв або монстрiв.
+#No_Dismantle_Favorite,Ви не можете розбирати улюблених рабiв або монстрiв.
+
+#Skip_Tutorial,Бажаєте пропустити навчання?<BR>Ви можете включити/виключити його знову в налаштуваннях.
+#LogMessage_Skip_Tutorial,Навчання було пропущено.
+
+#Use,Використовувати
+
+#Hotkey17,Збiльшити масштаб
+#Hotkey18,Зменшити масштаб
+
+#Continuous,Послiдовно
+#ChangeAll,Змiнити все
+#Looks,Вигляд
+#Dead,Померла
+
+v2.0.0.0
+
+#SenaLenaAction1Text, <color=#AEFC9B>Клацнiть</color> тут, щоб купити Косметичний засiб.
+#SenaLenaAction2Text, <color=#AEFC9B>Клацнiть</color> тут, щоб придбати презервативи та гелi для збереження любовi.
+#BarbaraAction1Text, Ви можете створити консультацiйну кiмнату, заповнивши квоту на покращення кiмнати.
+#BarbaraAction2Text, <color=#AEFC9B>Клацнiть</color> тут, щоб покращити свою кiмнату.
+
+#Hotkey19,Barbara
+#Hotkey20,Гра зi швидкiстю x1
+
+#SelectNpc,Ви можете вибрати партнера, щоб допомогти вам грати. Кожен партнер має рiзнi можливостi. Будь ласка, обережно вибирайте.
+
+#FloraInformation,Флора вiдповiдає за розбирання рабiв та монстрiв. Вона може створити пiксi, який автоматично доглядає за рабами.
+#NielInformation, Нiель може виготовляти предмети з побiчних продуктiв. Вона може створювати рабiв, монстрiв або гiгантських монстрiв за допомогою спецiальних предметiв.
+#SenaLenaInformation, Сена та Лена вiдкривають бордель та керують ним. Вони продають спецiальнi предмети, якi можна продавати лише в борделi.
+#BarbaraInformation, Барбара може покращувати кiмнату i додавати кiлька можливостей. Вона може створювати пристрiй, який може заповнювати розпустiсть одразу.
+
+#BarbaraSceneText,Сцена з Барбарою
+#AchievementTab9,Коваль
+#PixyCapsule,Капсула
+
+#Anna,Анна
+#Nero,Неро
+#Sena,Сена
+#Lena,Лена
+#Rune,Рун
+#Barbara,Барбара
+
+#Tentacle1,Щупалця
+#Tentacle1,Розведення щупальця
+#Tentacle2,Народження щупальця
+#NpcIdle,Простiр
+#NpcSex,Секс
+#NpcBirth,Пологи
+#Birth,Пологи
+#BarbaraSceneClearText,<color=#AEFC9B>Умови завершення</color><BR>100% симпатiї до Барбари
+
+#Tentacle,Щупальця
+#TentacleRoom,Кiмната щупальця
+#Capsule,Капсула
+#TentacleBreeding,Розведення щупальця
+#Resurrection,Вiдродження
+
+#BuyPrivateEstate,Приватна власнiсть, яку може мати гравець. Ви можете купити її за <sprite index=1>50000.
+
+#Room_ConceptionRate,Швидкiсть зачаття
+#Room_SexTime,Час сексу
+#Room_Maintenance,Обслуговування
+#Room_Cumshot1,Обов'язковий внутрiшнiй еякулят
+#Room_Cumshot2,Обов'язковий зовнiшнiй еякулят
+#Room_DecreasingHealthOnSex,Споживана здоров'я раба пiд час сексу
+#Room_Fee,Додаткова плата
+#Room_Trait,Додати 1 рису плоду
+#Room_GrowthTime,Час зростання
+#Room_VenerealDisease,Якщо продукт у клiтцi iнфiкований венеричною хворобою, його автоматично лiкують (1 день необхiдний час).
+#Room_Health,Вiдновлення здоров'я на секунду.
+
+#UpgradeBarbara1,Знижує витрати на пiдвищення та перепiдвищення.
+#UpgradeBarbara2,Знижує витрати на пiдвищення та перепiдвищення.
+#UpgradeBarbara3,Додає покажчик статистики пiдвищення кiмнати.
+#UpgradeBarbara4,Додає покажчик статистики пiдвищення кiмнати.
+#UpgradeBarbara5,Зменшує кiлькiсть полiпшень, необхiдних при виготовленнi капсули.
+#UpgradeBarbara6,Зменшує кiлькiсть полiпшень, необхiдних при виготовленнi капсули.
+#UpgradeBarbara7,Зменшує кiлькiсть полiпшень, необхiдних при виготовленнi капсули.
+
+#A000073Text,Досягнуто вiдкриття кузнеця
+#A000074Text,Досягнуто <color=#0055FF>{0}</color>/{1} пiдвищення
+#A000075Text,Досягнуто <color=#0055FF>{0}</color>/{1} перепiдвищення
+#A000076Text,Досягнуто <color=#0055FF>{0}</color>/{1} виробництво капсул
+#A000077Text,Досягнуто <color=#0055FF>{0}</color>/{1} на користь Барбари.
+
+#L401Text,Пiдвищення пiдземної кiмнати
+#L402Text,Перепiдвищення пiдземної кiмнати
+#L403Text,Пiдвищення земельної кiмнати
+#L404Text,Перепiдвищення земельної кiмнати
+#L405Text,Виробництво капсул
+#L406Text,Порушення людей за допомогою капсули
+#L407Text,Порушення ельфiв за допомогою капсули
+#L408Text,Порушення гномiв за допомогою капсули
+#L409Text,Порушення пушок за допомогою капсули
+#L410Text,Порушення малих пушок за допомогою капсули
+#L411Text,Порушення драконiв за допомогою капсули
+
+#Cannot_Upgraded,Неможливо оновити.
+#Downgrade,Понизити
+#No_Mana,Недостатньо есенцiї.
+#No_TentacleEgg,Недостатньо яєць тентаклiв.
+#Need_Soul,Потрiбно {0} есенцiї.
+#No_Scene,Ви не можете побачити сцену в її сквернiй стадiї.
+#Not_Enough_Upgrade_Count,Недостатньо кiлькостi оновлень.
+
+#Brainwash,Гiпноз
+#Milking,Доїння
+
+#Event_51,Oops, my hand slipped
+#Event_51_Text,Барбара випустила руку.<BR>Покращення кiмнати не вдалося.
+#Event_52,Падiння
+#Event_52_Text,Барбара у спадку.<BR>Кузнець недоступний протягом {0:0.0} днiв.
+#Event_53,Не це!
+#Event_53_Text,Для руни потрiбна певна сутнiсть.<BR>Протягом 1 дня отримайте лише сутнiсть з {1} дiй {0} видiв.
+#Event_54,Втеча дiвчинки
+#Event_54_Text,Руна дивиться навколо i загубилася.<BR>Алтар не можна використовувати протягом {0} днiв.
+
+#Item138Name,Яйця тентаклiв
+#Item138Text,Яйця тентаклiв
+
+#Trait_103_Name,Боже благословення
+#Trait_103_Text,Коли Анна втомлюється або знаходиться в станi вагiтностi, у Анни є 20% шанс на благословення, i її тiло буде у пiку. Повний вiдновлення здоров'я, повне вiдновлення грудного молока, скидання поточної кiлькостi народжень або лiкування венеричних захворювань.
+#Trait_104_Name,Знак диявола
+#Trait_104_Text,Оптимiзовано для народження iстот з демонiчного свiту, коли спарюється зi спрутом, розум не витрачається, i спарювання можливе безперервно.
+#Trait_105_Name,SUGOI DEKAI
+#Trait_105_Text,Її великi груди - її чарiвнiсть. Загалом, маючи розмiр грудей на один розмiр бiльший, нiж найбiльший розмiр грудей, може збiльшити кiлькiсть молока.
+#Trait_106_Name,Еротоманiя
+#Trait_106_Text,Вона - ельф, яку вигнали зi свого племенi через пристрасть до сексу. Вона може здiйснювати секс без перерви пiд час сексу.
+#Trait_107_Name,Наркоманка
+#Trait_107_Text,Вона завжди на наркотиках. Наркотик у її кровi завжди вiдновлює її здоров'я, якщо вона не витрачає своє здоров'я.
+#Trait_108_Name,Дурнi не хворiють
+#Trait_108_Text,Вона дурненька i завжди весела та повна енергiї. Вона має абсолютну стiйкiсть до венеричних захворювань.
+#Trait_109_Name,Фантастична технiка
+#Trait_109_Text,Її секс-технiка фантастична. Коли вона знаходиться в борделi, час використання зменшується вдвiчi.
+#Trait_110_Name,Мазохiст
+#Trait_110_Text,Вона мазохiстка i любить страждати. Швидкiсть збiльшення кiлькостi виправок подвоюється.
+
+#StoryText48600,Дозвольте менi представити вам <color=#FFFF00>'Дiлового партнера'</color> на верхнiй частинi нашої сторiнки.
+#StoryText48700,Її звуть <color=#FFFF00>'Барбара'</color>. Вона вiдповiдає за <color=#FFFF00>'пiдвищення рiвня кiмнат'</color>.
+#StoryText48800,Привiт.
+#StoryText48900,Вона може <color=#FFFF00>'пiдвищувати рiвень кiмнати, щоб призначити рiзнi характеристики'</color>.
+#StoryText49000,Тодi, будь ласка, викликайте її, коли вам це потрiбно.
+#StoryText49100,Звертайтеся до мене, якщо вам потрiбно.
+#StoryText49200,Привiт.
+#StoryText49300,Я навчу вас <color=#FFFF00>'як пiдвищити рiвень кiмнати'</color>.
+#StoryText49400,<color=#FFFF00>'Клацнiть тут'</color>.
+#StoryText49500,<color=#FFFF00>'Виберiть кiмнату, яку ви хочете пiдвищити'</color>.
+#StoryText49600,Тодi, <color=#FFFF00>'характеристика буде призначена кiмнатi'</color>.
+#StoryText49700,Чим бiльше ви <color=#FFFF00>'пiдвищуєте рiвень кiмнати'</color>, тим бiльше я зроблю <color=#FFFF00>'машина, яка автоматично поповнює рiвень корупцiї рабiв'</color> як послугу.
+#StoryText49800,Отже, успiхiв у майбутньому, колего.
+#StoryText49900,<color=#FFFF00>'Виберiть кiмнату'</color>, яку ви хочете пiдвищити.
+#StoryText50000,<color=#FFFF00>'Характеристика кiмнати'</color> призначається випадковим чином, i ви можете збiльшити <color=#FFFF00>'кiлькiсть балiв характеристики до трьох'</color> завдяки <color=#FFFF00>'пiдвищенню рiвня Барбари'</color>.
+#StoryText50100,Ви можете <color=#FFFF00>'ново налаштовувати свої статистики через повторне пiдвищення'</color>, i <color=#FFFF00>'пiдвищення та повторне пiдвищення вимагає витрат золота'</color>. За допомогою <color=#FFFF00>'пiдвищення рiвня Барбари'</color> ви можете <color=#FFFF00>'зменшити витрати золота'</color>.
+#StoryText50200,Я змiг це зробити завдяки важкiй роботi над пiдвищенням.
+#StoryText50300,З цим ви зможете <color=#FFFF00>'легко заповнити рiвень корупцiї рабiв'</color>.
+#StoryText50400,Берiть це i встановлюйте там, де ви хочете.
+#StoryText50500,<color=#FFFF00>'Встановiть кiмнату пiдводництва, де завгодно вам зручно'</color>.
+#StoryText50600,Якщо ви <color=#FFFF00>'помiстите раба в кiмнату пiдводництва'</color>, <color=#FFFF00>'рiвень корупцiї раба збiльшується на певну кiлькiсть кожну секунду'</color>.
+#StoryText50700,Завдяки вам, я добре заробляю.
+#StoryText50800,Я надам вам послугу.
+#StoryText50900,Амелiя подарувала менi це, але це безглуздо.
+#StoryText51000,Просто подарую вам це. Використовуйте на користь.
+#StoryText51100,На цьому разi прибуток був дуже хорошим.
+#StoryText51200,Я подарую вам щось взамiн.
+#StoryText51300,Я знайшов це на дорозi.
+#StoryText51400,Використайте це.
+#StoryText51500,Все ж таки, грошi - це найкраще.
+#StoryText51600,Дякую.
+#StoryText51700,Тепер ви можете насолоджуватися сексом з Барбарою.
+
+#StoryText51800,Тут був дуже сильний запах есенцiї.
+#StoryText51900,Ти... власник цього мiсця?
+#StoryText52000,Приємно познайомитися, я - Рун.
+#StoryText52100,Якщо ти подаруєш менi бiльше есенцiї, я здiйсню твоє бажання.
+#StoryText52200,Звiсно, я можу позичити тобi свою силу, якщо це необхiдно, цiна - <color=#FFFF00>'есенцiя'</color>.
+#StoryText52300,Таємнича дiвчина Рун - з iншого свiту.
+#StoryText52400,Вона <color=#FFFF00>'отримує есенцiю через статевi стосунки, вимiнювання молока та народження рабiв до падiння'</color> i може використовувати дух для <color=#FFFF00>'здiйснення рiзних здiбностей'</color>.
+
+#StoryText52500,Тепер дозволь менi представити тобi лише кiлька з моїх здiбностей.
+#StoryText52600,Це здiбнiсть до <color=#FFFF00>'воскрешення мертвих'</color>.
+#StoryText52700,Я покажу тобi особливий приклад.
+#StoryText52800,Немає трупа?
+#StoryText52900,Якщо менi не подадуть труп, то менi доведеться його створити. Не хвилюйся, я не використаю твiй труп.
+#StoryText53000,<color=#FFFF00>'Вибери труп'</color> i <color=#FFFF00>'воскреси його'</color>.
+#StoryText53100,<color=#FFFF00>'Кiлькiсть есенцiї, необхiдна для кожної раси, рiзниться'</color>.
+#StoryText53200,Ось як ти можеш воскресити труп.
+#StoryText53300,Менi вже не потрiбно це.
+#StoryText53400,Добре, час розповiсти про наступну здiбнiсть~
+#StoryText53500,Дозволь менi представити тобi дуже, дуже милого улюбленця з нашого свiту, назвемо його <color=#FFFF00>'Восьминiг'</color>.
+#StoryText53600,Я бажала б мати пiдходящу кiмнату.
+#StoryText53700,Цей розмiр має бути саме вiдповiдним, пам'ятай це.
+#StoryText53800,Тепер <color=#FFFF00>'необхiднi яйця для розведення Восьминогiв'</color>, я наперед надаму їх тобi.
+#StoryText53900,Ти зможеш <color=#FFFF00>'вирощувати Восьминiгiв в кiмнатi'</color> так, я тобi все розповiщу.
+#StoryText54000,Давай розведемо їх.
+#StoryText54100,Отримали гарних Восьминогiв, Восьминоги справдi дуже гарнi та кориснi iстоти.
+#StoryText54200,Якщо б у тебе були Восьминоги, ти б мiг <color=#FFFF00>'дуже легко збирати есенцiю'</color>.
+#StoryText54300,Так що я сподiваюся, що ти їх розмножиш.
+#StoryText54400,Щоб створити Восьминога, необхiдно <color=#FFFF00>'3 яйця Восьминога'</color> i <color=#FFFF00>'певну кiлькiсть есенцiї'</color>, тож пам'ятай це.
+#StoryText54500,Тепер я навчу тебе <color=#FFFF00>'як створити яйце Восьминога'</color>.
+#StoryText54600,Спробуй <color=#FFFF00>'поставити раба на Восьминога'</color>.
+#StoryText54700,Восьминоги справдi унiверсальнi, отже, якщо ти поставиш раба сюди, ти зможеш збирати есенцiю без необхiдностi <color=#FFFF00>'окремо керувати ними'</color>.
+#StoryText54800,Це буде зручно, оскiльки <color=#FFFF00>'статевi вiдносини, доїння, пологи вiдбуваються в одному мiсцi'</color>.
+#StoryText54900,<color=#FFFF00>'Рабка вагiтна'</color>? Тепер <color=#FFFF00>'я справлю яйця в Восьминога'</color>.
+#StoryText54950,Натисни на яйця Восьминога, щоб їх забрати.
+#StoryText55000,<color=#FFFF00>'Попереднi яйця утворюють 1 групу'</color>, i якщо у тебе є <color=#FFFF00>'три з них',</color> ти зможеш <color=#FFFF00>'розмножити Восьминогiв'</color>.
+#StoryText55100,Яйця Восьминога дiйсно кориснi, вони смачнi, добрi для стiйкостi, i також дуже хороший матерiал.
+#StoryText55200,<color=#FFFF00>'Привести, продати або створити Восьминогiв'</color> на твоєму розсудi.
+#StoryText55300,Якщо <color=#FFFF00>'Вiддай менi яйце, i я змiню його на есенцiю'</color>.
+#StoryText55400,Коли раба розмiщують у кiмнатi Восьминога, <color=#FFFF00>'статевi вiдносини, доїння i пологи вiдбуваються автоматично'</color>.
+#StoryText55500,Крiм того, <color=#FFFF00>'раби автоматично отримують догляд'</color> в кiмнатi Восьминога.
+#StoryText55600,Щоб створити кiмнату Восьминога, ти можеш створити кiмнату Восьминога через <color=#FFFF00>'Кiмнату розведення'</color>, <color=#FFFF00>'3 яйця Восьминога'</color> i <color=#FFFF00>'100 есенцiї'</color>.
+#StoryText55700,Давай зробимо це невперше, це набридло.
+#StoryText55800,Удачi в майбутньому.
+#StoryText55900,Якщо ти зiбраєш всю есенцiю вiд мене.
+#StoryText56000,Дозволь менi розповiсти тобi про один з моїх особливих рухiв.
+#StoryText56100,Якщо Рунi накопичить свою есенцiю до <color=#FFFF00>'666, можуть вiдбутися особливi змiни'</color>.
+
+#StoryText56200,Ти наївся?
+#StoryText56300,Тепер час менi повернутися до своєї справжньої сутностi.
+#StoryText56400,Я, як обiцяла в останнiй раз, розкажу тобi один зi своїх особливих прийомiв.
+#StoryText56500,Чи у тебе є фаворитки серед дiвчат тут?
+#StoryText56600,Я здiйснюю на неї <color=#FFFF00>'промивання мозку'</color>, щоб вона робила все, що ти хочеш.
+#StoryText56700,Руна може <color=#FFFF00>'промити мозок NPC'</color>, витрачаючи <color=#FFFF00>'666 есенцiї'</color>. Пiсля промивання мозку NPC буде <color=#FFFF00>'розташований на територiї гравця'</color> i зможе <color=#FFFF00>'зачати дитину гравця'</color>.
+#StoryText56800,Проте для <color=#FFFF00>'промивання мозку'</color> необхiдно, щоб <color=#FFFF00>'популярнiсть NPC була максимальною'</color> i щоб була <color=#FFFF00>'особиста територiя'</color>.
+
+#StoryText56900,Кого ти плануєш промити?
+#StoryText57000,Тепер ти можеш робити все, що завгодно.
+#StoryText57100,Менi здається, це не спрацює, оскiльки вона не симпатизує тобi. Спробуй сподобатися їй.
+#StoryText57200,Намагаєшся завести дiвчину без дому?
+#StoryText57300,Промивання мозку - не усеохопний метод.
+
+#StoryText57400,Звiдки це взято?
+#StoryText57500,Це дуже якiсний магiчний камiнь.
+#StoryText57600,Якщо вiн такої якостi, його, ймовiрно, можна продати за бiльше нiж <color=#FFFF00>'5000 золота'</color> на ринку.
+#StoryText57700,Не знаю, звiдки це у тебе, але все, що приносить грошi, в найкращому порядку.
+#StoryText57800,У майбутньому я куплю цей магiчний камiнь за <color=#FFFF00>'5000 золота'</color>.
+
+#StoryText57900,Тепер... час втiлити бажання в життя
+#StoryText58000,Що я роблю?
+#StoryText58100,Я нiколи не говорила, що <color=#FFFF00>'твоє бажання'</color> обов'язково здiйсниться.
+#StoryText58200,Ти зробив чудову справу. Оскiльки ти корисний, я вiзьму тебе пiд свiй особливий <color=#FFFF00>'контроль'</color>.
+#StoryText58300,Давай подружимо в майбутньому, партнере.
+
+#StoryText58400,Ви можете купити приватну власнiсть за <sprite index=1>50000, натиснувши кнопку "Приватна власнiсть".
+
+#RuneEnding,Читання рун
+#RuneClearText,<color=#AEFC9B>Очистити Умову</color><BR>Всi NPC пiдданi брейнвешiнгу, Кiлькiсть будiвель Кiмнати для Тактильних вiдчуттiв 50, Продаж яєць для Тактильних вiдчуттiв 100 <color=#FFFF00>до 51-го дня</color>
+
+#UpgradeSterilizationSystem,Заберiть вагiтнiсть без отримання венеричної хвороби та зменште час використання, доступно увiмкнення/вимкнення.
+
+#RaceTentacleText,Тентаклi
+
+#DemolitionImmediately,Розбирання негайно
+
+#AllBrainwash,Усi NPC пiдданi мозковому промиванню.
+
+#Glass,Скло
+
+#Hotkey21,Пропустити
